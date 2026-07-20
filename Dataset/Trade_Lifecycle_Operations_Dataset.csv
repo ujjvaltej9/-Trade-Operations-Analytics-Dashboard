@@ -1,0 +1,1001 @@
+﻿Trade ID,Trade Date,Region,Asset Class,Trade Value (USD),Settlement Status,Settlement Time (Hours),Exception Type,Operations Team,Risk Rating
+T00001,2026-03-12,Americas,Equities,115421.97,Pending,6.6,Documentation,Mumbai,Medium
+T00002,2026-01-21,Americas,FX,179752.47,Settled,38.4,None,Dallas,Low
+T00003,2026-01-20,EMEA,FX,20936.6,Settled,7.1,None,Warsaw,Low
+T00004,2026-06-03,APAC,Commodities,85995.19,Settled,19.3,None,Mumbai,Low
+T00005,2026-06-04,APAC,Fixed Income,53245.05,Settled,60.7,None,Mumbai,Low
+T00006,2026-03-19,Americas,FX,113785.76,Pending,63.9,Documentation,Mumbai,High
+T00007,2026-06-06,Americas,FX,87818.02,Settled,47.8,None,Mumbai,Low
+T00008,2026-01-09,APAC,FX,130565.26,Settled,64.7,None,Mumbai,Medium
+T00009,2026-02-19,APAC,Equities,361904.72,Settled,17.8,None,Mumbai,Low
+T00010,2026-04-21,EMEA,Fixed Income,180893.85,Settled,67.6,None,Warsaw,Low
+T00011,2026-03-13,Americas,Equities,151880.03,Settled,9.1,None,Mumbai,Low
+T00012,2026-06-21,Americas,Commodities,387111.68,Settled,68.3,None,Dallas,Low
+T00013,2026-03-13,EMEA,Fixed Income,111031.66,Settled,27.1,None,Mumbai,High
+T00014,2026-05-07,EMEA,Equities,286834.27,Settled,71.6,None,Mumbai,Low
+T00015,2026-06-10,APAC,Commodities,308671.94,Settled,19.6,None,Dallas,Low
+T00016,2026-04-21,EMEA,FX,105047.82,Settled,68.5,None,Mumbai,Low
+T00017,2026-05-11,Americas,FX,319552.3,Settled,32.7,None,Dallas,Low
+T00018,2026-06-15,EMEA,Commodities,61725.31,Settled,44.8,None,Mumbai,Low
+T00019,2026-05-06,EMEA,Fixed Income,491996.37,Failed,57.8,Funding,Mumbai,Low
+T00020,2026-05-24,EMEA,Commodities,348842.95,Failed,36,Counterparty,Warsaw,Medium
+T00021,2026-02-05,EMEA,FX,329932.79,Settled,39.1,None,Warsaw,Medium
+T00022,2026-04-21,APAC,Equities,470369.11,Settled,69,None,Mumbai,Low
+T00023,2026-04-26,EMEA,FX,356359.25,Settled,4,None,Warsaw,Low
+T00024,2026-06-29,EMEA,Commodities,108291.14,Settled,5.3,None,Warsaw,Low
+T00025,2026-05-25,Americas,Fixed Income,268335.9,Settled,25.8,None,Mumbai,High
+T00026,2026-05-21,Americas,FX,459470.25,Settled,33,None,Dallas,Low
+T00027,2026-01-06,APAC,Fixed Income,75882.54,Settled,7,None,Warsaw,Low
+T00028,2026-03-29,EMEA,Commodities,347820.08,Settled,62.1,None,Mumbai,Low
+T00029,2026-03-02,APAC,Equities,442885.85,Settled,49.2,None,Warsaw,Low
+T00030,2026-01-16,Americas,Equities,497277.46,Settled,14,None,Mumbai,Low
+T00031,2026-06-12,APAC,FX,495514.92,Settled,65.1,None,Mumbai,Low
+T00032,2026-03-28,APAC,Fixed Income,311409.51,Pending,41.6,Documentation,Mumbai,Medium
+T00033,2026-03-03,EMEA,FX,290644.06,Settled,71.2,None,Warsaw,Low
+T00034,2026-01-21,APAC,Equities,81377.08,Pending,49.9,Counterparty,Warsaw,Medium
+T00035,2026-03-27,EMEA,Commodities,360045.4,Settled,59.2,None,Warsaw,Low
+T00036,2026-05-27,APAC,FX,440545.72,Settled,4.1,None,Dallas,Low
+T00037,2026-06-05,EMEA,FX,348719.98,Settled,26.8,None,Warsaw,Low
+T00038,2026-02-22,EMEA,Equities,447757.79,Settled,71.3,None,Mumbai,Medium
+T00039,2026-04-16,EMEA,Equities,390857.58,Settled,55.5,None,Dallas,Low
+T00040,2026-01-04,APAC,FX,213791.3,Settled,33,None,Mumbai,Low
+T00041,2026-02-16,Americas,Commodities,377602.16,Settled,8,None,Dallas,Low
+T00042,2026-05-29,APAC,FX,455243.24,Settled,65,None,Dallas,Low
+T00043,2026-05-20,Americas,Equities,81276.86,Failed,15.9,System,Dallas,Low
+T00044,2026-04-20,EMEA,Commodities,483678.48,Failed,66,System,Warsaw,Low
+T00045,2026-06-26,Americas,Equities,331497.3,Failed,37.9,Documentation,Dallas,Low
+T00046,2026-01-03,APAC,FX,44502.46,Settled,9,None,Warsaw,Low
+T00047,2026-04-08,Americas,FX,198747.07,Settled,16.1,None,Warsaw,Low
+T00048,2026-01-24,APAC,Equities,91846.16,Settled,10.3,None,Warsaw,Low
+T00049,2026-06-27,EMEA,Equities,309155.55,Settled,66.4,None,Dallas,Low
+T00050,2026-01-31,Americas,FX,434245.14,Settled,8.2,None,Warsaw,High
+T00051,2026-03-14,Americas,Commodities,241985.75,Settled,14.8,None,Mumbai,Low
+T00052,2026-01-06,EMEA,FX,450970.78,Settled,5.3,None,Warsaw,Low
+T00053,2026-02-07,APAC,Commodities,189975.82,Settled,62.2,None,Warsaw,Low
+T00054,2026-02-20,APAC,FX,189715.6,Settled,14.2,None,Mumbai,Low
+T00055,2026-02-20,EMEA,Fixed Income,112814.9,Settled,19.6,None,Dallas,Low
+T00056,2026-03-05,APAC,Commodities,197430.6,Settled,35.3,None,Dallas,Low
+T00057,2026-06-16,EMEA,Equities,132238.82,Settled,15.6,None,Warsaw,Low
+T00058,2026-03-19,Americas,Equities,62404.55,Pending,71.7,Counterparty,Mumbai,Low
+T00059,2026-01-25,APAC,Fixed Income,110331.35,Settled,36.4,None,Mumbai,Low
+T00060,2026-04-18,EMEA,Equities,317323.17,Settled,32,None,Warsaw,Low
+T00061,2026-04-16,Americas,Fixed Income,83055.07,Settled,12.2,None,Warsaw,Low
+T00062,2026-04-07,APAC,Fixed Income,228827.7,Settled,3.6,None,Dallas,Low
+T00063,2026-06-10,EMEA,Equities,337032.82,Settled,63.2,None,Warsaw,Low
+T00064,2026-05-27,Americas,Equities,96657.83,Settled,24.1,None,Dallas,Low
+T00065,2026-01-12,APAC,Commodities,5950.67,Settled,26,None,Mumbai,High
+T00066,2026-06-12,EMEA,FX,101470.17,Settled,17.2,None,Warsaw,Medium
+T00067,2026-05-24,APAC,Fixed Income,438846.21,Pending,43.8,Documentation,Warsaw,Low
+T00068,2026-02-08,APAC,FX,84088.99,Settled,29.1,None,Warsaw,Low
+T00069,2026-06-30,Americas,Commodities,118236.15,Settled,36.7,None,Warsaw,Medium
+T00070,2026-05-17,APAC,FX,297512.2,Pending,67.6,System,Warsaw,Low
+T00071,2026-03-11,EMEA,FX,414074.85,Failed,69.4,System,Warsaw,Low
+T00072,2026-05-31,APAC,Equities,211803.61,Settled,56.3,None,Mumbai,Low
+T00073,2026-04-19,Americas,Fixed Income,392771.28,Settled,53.8,None,Warsaw,Low
+T00074,2026-03-31,EMEA,FX,287000.75,Settled,13.5,None,Mumbai,Medium
+T00075,2026-04-19,EMEA,Commodities,164806.43,Settled,47.3,None,Dallas,Low
+T00076,2026-03-31,EMEA,Fixed Income,470305.1,Settled,36.4,None,Mumbai,High
+T00077,2026-02-19,Americas,Fixed Income,257801.07,Settled,54.8,None,Warsaw,Low
+T00078,2026-02-14,APAC,Equities,346936.25,Settled,61.2,None,Dallas,High
+T00079,2026-02-19,Americas,FX,82705.29,Settled,33.4,None,Warsaw,Low
+T00080,2026-02-02,Americas,FX,32276.98,Settled,23.7,None,Mumbai,Low
+T00081,2026-06-28,EMEA,Fixed Income,486497.64,Pending,45.8,Documentation,Warsaw,Low
+T00082,2026-05-12,EMEA,Equities,278036.03,Settled,10.4,None,Warsaw,Low
+T00083,2026-01-31,APAC,FX,75384.84,Settled,22,None,Dallas,Low
+T00084,2026-05-28,APAC,Commodities,271617.87,Settled,3.2,None,Dallas,Low
+T00085,2026-04-05,Americas,FX,289928.33,Settled,5.5,None,Warsaw,Low
+T00086,2026-06-13,Americas,Commodities,287963.7,Settled,49.3,None,Warsaw,Low
+T00087,2026-02-02,EMEA,Commodities,118960.85,Pending,3.2,Documentation,Dallas,Low
+T00088,2026-02-24,Americas,Fixed Income,220244.35,Settled,18,None,Mumbai,Medium
+T00089,2026-02-19,EMEA,Fixed Income,221039.51,Settled,43.6,None,Dallas,Low
+T00090,2026-01-04,Americas,Fixed Income,127999.5,Settled,6.1,None,Mumbai,Low
+T00091,2026-04-09,APAC,Fixed Income,486963.42,Settled,49.8,None,Mumbai,High
+T00092,2026-05-22,EMEA,Equities,110778.93,Settled,48.8,None,Warsaw,Low
+T00093,2026-06-02,Americas,Commodities,325666.14,Settled,25.4,None,Warsaw,Low
+T00094,2026-02-11,Americas,Commodities,105858.91,Settled,7.3,None,Warsaw,Low
+T00095,2026-06-22,APAC,Equities,342244.63,Settled,59.6,None,Mumbai,Low
+T00096,2026-06-03,APAC,FX,284423.24,Settled,12.1,None,Mumbai,Low
+T00097,2026-02-09,Americas,Commodities,221555.91,Settled,35.1,None,Mumbai,Low
+T00098,2026-02-26,Americas,Commodities,219510.49,Settled,6.7,None,Dallas,Low
+T00099,2026-06-01,EMEA,Fixed Income,27397.77,Settled,34,None,Mumbai,Medium
+T00100,2026-03-20,APAC,Equities,196478.12,Settled,55.9,None,Dallas,Low
+T00101,2026-06-24,APAC,FX,498057.54,Failed,58.5,Funding,Dallas,Low
+T00102,2026-06-12,Americas,Equities,420781.09,Settled,38.2,None,Warsaw,Low
+T00103,2026-05-04,EMEA,Equities,344121.4,Settled,2.2,None,Dallas,Low
+T00104,2026-03-03,APAC,Commodities,5563.88,Settled,36.4,None,Dallas,Low
+T00105,2026-03-01,EMEA,Commodities,81945.88,Settled,19.1,None,Warsaw,Low
+T00106,2026-05-01,APAC,Fixed Income,422924.55,Settled,21,None,Dallas,Low
+T00107,2026-02-14,EMEA,Equities,488196.84,Settled,2.1,None,Dallas,High
+T00108,2026-05-25,APAC,Commodities,186428.94,Settled,10.3,None,Dallas,Medium
+T00109,2026-06-22,APAC,Commodities,453297.64,Failed,26.1,Documentation,Warsaw,Low
+T00110,2026-03-30,Americas,FX,213409.1,Settled,23.4,None,Dallas,Low
+T00111,2026-06-15,Americas,Equities,32357.43,Settled,9.3,None,Mumbai,Low
+T00112,2026-05-15,APAC,Fixed Income,273975.34,Settled,55.4,None,Mumbai,Low
+T00113,2026-04-26,Americas,Commodities,97288.2,Settled,10.3,None,Dallas,High
+T00114,2026-05-06,EMEA,Equities,368455.41,Settled,59.2,None,Mumbai,Low
+T00115,2026-02-14,APAC,Fixed Income,364237.63,Settled,56.4,None,Mumbai,Low
+T00116,2026-05-22,APAC,Fixed Income,410823.47,Settled,60.2,None,Warsaw,Medium
+T00117,2026-04-04,Americas,Commodities,400103.53,Settled,24.1,None,Warsaw,High
+T00118,2026-06-26,APAC,Commodities,30363.84,Settled,21.9,None,Dallas,Medium
+T00119,2026-05-21,APAC,FX,273305.23,Settled,4,None,Dallas,Low
+T00120,2026-04-18,EMEA,Commodities,244122.07,Settled,50.6,None,Dallas,Medium
+T00121,2026-02-25,APAC,FX,404771.68,Pending,53.6,Counterparty,Dallas,Low
+T00122,2026-06-06,Americas,Fixed Income,452324.96,Settled,1.3,None,Dallas,Low
+T00123,2026-03-12,APAC,Fixed Income,372400.2,Settled,45.6,None,Warsaw,Low
+T00124,2026-04-15,APAC,Fixed Income,376626.81,Settled,12.2,None,Dallas,Medium
+T00125,2026-06-05,Americas,Fixed Income,217523.55,Settled,63.7,None,Mumbai,Medium
+T00126,2026-06-06,EMEA,FX,290399.13,Settled,10.2,None,Dallas,High
+T00127,2026-05-02,Americas,FX,256626.28,Settled,16.3,None,Mumbai,High
+T00128,2026-02-14,Americas,Commodities,89258.42,Settled,31.8,None,Dallas,Low
+T00129,2026-04-01,EMEA,FX,463244.39,Settled,36.3,None,Warsaw,Low
+T00130,2026-01-25,EMEA,FX,188623.17,Settled,69,None,Mumbai,Low
+T00131,2026-04-08,EMEA,FX,128800.27,Pending,71.6,Counterparty,Warsaw,Low
+T00132,2026-05-23,APAC,Commodities,232142.37,Settled,66.7,None,Warsaw,Low
+T00133,2026-05-26,EMEA,Commodities,120380.74,Pending,64.9,System,Warsaw,Low
+T00134,2026-04-10,Americas,FX,242770.49,Pending,54.4,System,Mumbai,Low
+T00135,2026-06-05,Americas,Commodities,139704.94,Settled,40.6,None,Warsaw,Low
+T00136,2026-02-23,Americas,Fixed Income,479157.93,Settled,63.9,None,Warsaw,Low
+T00137,2026-06-10,Americas,Commodities,161874.45,Settled,67.3,None,Dallas,Low
+T00138,2026-01-19,EMEA,FX,60175.28,Settled,21.7,None,Dallas,High
+T00139,2026-04-22,Americas,Fixed Income,82415.92,Settled,37.1,None,Mumbai,Low
+T00140,2026-02-02,APAC,Commodities,9057.96,Settled,14.8,None,Dallas,Low
+T00141,2026-05-22,APAC,Fixed Income,485808.1,Settled,12.5,None,Mumbai,Low
+T00142,2026-04-29,EMEA,Commodities,425757.79,Settled,65,None,Dallas,Low
+T00143,2026-06-30,EMEA,Commodities,348751.11,Settled,30.3,None,Warsaw,Medium
+T00144,2026-04-19,EMEA,FX,184204.06,Settled,52.6,None,Dallas,Low
+T00145,2026-03-08,APAC,Fixed Income,440424.34,Settled,3.3,None,Warsaw,Low
+T00146,2026-04-03,Americas,Commodities,216903.56,Failed,35.9,Counterparty,Warsaw,Low
+T00147,2026-05-19,EMEA,Fixed Income,162756.75,Settled,65.5,None,Warsaw,Low
+T00148,2026-05-29,APAC,Commodities,379458.84,Settled,2,None,Warsaw,Low
+T00149,2026-02-18,APAC,Equities,174281.92,Pending,70,System,Mumbai,Low
+T00150,2026-04-10,APAC,Equities,193599.08,Pending,58.6,Counterparty,Warsaw,Low
+T00151,2026-04-24,Americas,Fixed Income,99372.25,Settled,10.1,None,Mumbai,Low
+T00152,2026-03-04,EMEA,Equities,219089.76,Settled,46,None,Dallas,Medium
+T00153,2026-01-13,Americas,Commodities,428269.28,Settled,34.5,None,Warsaw,Low
+T00154,2026-05-08,Americas,Equities,250085.02,Settled,39.8,None,Dallas,Low
+T00155,2026-01-13,Americas,Fixed Income,111975.13,Settled,70.3,None,Mumbai,Low
+T00156,2026-02-13,Americas,FX,28134.78,Pending,67,System,Dallas,Low
+T00157,2026-06-12,Americas,Fixed Income,250149.01,Settled,8.7,None,Mumbai,Medium
+T00158,2026-04-10,APAC,FX,10037.62,Settled,8,None,Dallas,Low
+T00159,2026-03-09,EMEA,Commodities,311730.21,Settled,71.4,None,Mumbai,Low
+T00160,2026-05-05,APAC,Fixed Income,161358.33,Settled,1.2,None,Dallas,Medium
+T00161,2026-04-17,Americas,FX,25491.35,Failed,23.4,Documentation,Dallas,Low
+T00162,2026-04-04,Americas,Fixed Income,83828.2,Settled,49,None,Warsaw,Low
+T00163,2026-01-26,Americas,Equities,124472.07,Pending,48.4,Documentation,Warsaw,High
+T00164,2026-01-17,Americas,FX,422413.26,Settled,24.3,None,Warsaw,Low
+T00165,2026-05-05,Americas,FX,331695.76,Settled,41,None,Dallas,High
+T00166,2026-03-12,Americas,Equities,363072.56,Settled,2.6,None,Mumbai,Low
+T00167,2026-05-11,APAC,FX,388296.38,Settled,2.5,None,Warsaw,High
+T00168,2026-06-19,Americas,Equities,460866.41,Settled,1.4,None,Mumbai,Low
+T00169,2026-02-13,EMEA,Fixed Income,93097.32,Settled,26,None,Dallas,Low
+T00170,2026-02-25,EMEA,FX,44949.23,Settled,43.5,None,Warsaw,Low
+T00171,2026-05-07,EMEA,Equities,13160.33,Settled,51.9,None,Dallas,Medium
+T00172,2026-03-23,APAC,FX,275454.15,Settled,15.3,None,Warsaw,Low
+T00173,2026-06-24,APAC,FX,186170.3,Settled,45.5,None,Warsaw,Medium
+T00174,2026-06-23,EMEA,Equities,453987.36,Settled,14.8,None,Mumbai,Medium
+T00175,2026-03-29,Americas,Equities,143367.76,Settled,3.2,None,Warsaw,Low
+T00176,2026-03-19,Americas,Commodities,403335.12,Settled,37.1,None,Dallas,Low
+T00177,2026-06-20,APAC,Equities,140318.74,Settled,44,None,Dallas,Low
+T00178,2026-05-25,Americas,Equities,62856.63,Settled,21.8,None,Dallas,Low
+T00179,2026-05-20,Americas,FX,453535.2,Settled,56.9,None,Warsaw,Low
+T00180,2026-04-05,APAC,Fixed Income,371702.85,Settled,65,None,Dallas,Low
+T00181,2026-06-04,EMEA,FX,268695.28,Failed,66,Funding,Warsaw,Low
+T00182,2026-03-27,Americas,Equities,384004.82,Settled,26.8,None,Dallas,Medium
+T00183,2026-03-27,EMEA,Fixed Income,38007.98,Settled,18.7,None,Dallas,Low
+T00184,2026-02-17,Americas,Equities,121327.72,Settled,20.2,None,Mumbai,Low
+T00185,2026-06-10,Americas,Fixed Income,495592.53,Settled,60.2,None,Dallas,High
+T00186,2026-04-20,EMEA,FX,412284.59,Settled,13,None,Dallas,Low
+T00187,2026-01-13,APAC,FX,428301.35,Settled,51.7,None,Warsaw,Low
+T00188,2026-01-03,EMEA,Equities,461616.67,Failed,19,Documentation,Dallas,Low
+T00189,2026-01-16,Americas,Commodities,85624.07,Settled,7.6,None,Warsaw,Medium
+T00190,2026-06-03,Americas,Equities,396328.36,Settled,69.2,None,Warsaw,High
+T00191,2026-06-26,EMEA,FX,18097.86,Settled,4.9,None,Warsaw,Low
+T00192,2026-04-11,Americas,Fixed Income,78430.83,Settled,3,None,Warsaw,Low
+T00193,2026-06-02,APAC,Commodities,495220.36,Settled,50.1,None,Warsaw,Low
+T00194,2026-03-22,APAC,FX,454126.8,Failed,61.8,System,Dallas,Low
+T00195,2026-06-07,Americas,Commodities,459914.07,Settled,37.1,None,Warsaw,Medium
+T00196,2026-06-21,Americas,FX,187866.94,Settled,14.6,None,Mumbai,Low
+T00197,2026-01-19,Americas,Equities,267660.82,Settled,12.3,None,Mumbai,Low
+T00198,2026-04-08,Americas,Commodities,244676.79,Settled,36.4,None,Dallas,Low
+T00199,2026-02-08,Americas,Fixed Income,102471.99,Settled,23.8,None,Warsaw,Low
+T00200,2026-05-07,APAC,Fixed Income,37611.68,Settled,10.5,None,Warsaw,Medium
+T00201,2026-03-20,APAC,Commodities,458141.69,Settled,20,None,Mumbai,Low
+T00202,2026-05-30,EMEA,Commodities,345760.35,Settled,56.5,None,Dallas,Low
+T00203,2026-01-11,EMEA,FX,283020.61,Settled,64.9,None,Mumbai,Low
+T00204,2026-01-12,EMEA,Fixed Income,268320.71,Settled,49.9,None,Warsaw,Low
+T00205,2026-01-08,APAC,Fixed Income,398172.68,Settled,4.4,None,Mumbai,Low
+T00206,2026-05-20,EMEA,FX,305680.75,Settled,2.6,None,Mumbai,Low
+T00207,2026-05-08,Americas,Equities,278246.52,Settled,1.7,None,Mumbai,Low
+T00208,2026-04-07,APAC,FX,443321.95,Pending,28,Documentation,Mumbai,Medium
+T00209,2026-02-07,APAC,Commodities,95591.17,Settled,34.1,None,Dallas,Low
+T00210,2026-02-18,Americas,FX,449768.17,Settled,37.4,None,Dallas,Low
+T00211,2026-05-05,APAC,Fixed Income,327717.39,Settled,32.2,None,Warsaw,Low
+T00212,2026-02-01,Americas,Commodities,192034.41,Pending,21,Documentation,Mumbai,Low
+T00213,2026-05-23,EMEA,Equities,222142.19,Settled,16.2,None,Mumbai,Medium
+T00214,2026-02-16,Americas,FX,492591.92,Pending,45.9,Documentation,Mumbai,Low
+T00215,2026-05-30,Americas,Fixed Income,317336.71,Settled,17.5,None,Mumbai,High
+T00216,2026-05-08,Americas,FX,187074.16,Settled,8.3,None,Warsaw,High
+T00217,2026-02-08,EMEA,Commodities,151871.02,Settled,56.7,None,Mumbai,Low
+T00218,2026-06-05,APAC,Equities,394726.98,Settled,31.8,None,Mumbai,Medium
+T00219,2026-01-01,APAC,Equities,148010.59,Settled,36.9,None,Mumbai,Low
+T00220,2026-02-01,EMEA,Commodities,208924.89,Settled,69.6,None,Mumbai,Low
+T00221,2026-04-06,APAC,Commodities,172905.32,Settled,1.5,None,Warsaw,Medium
+T00222,2026-03-05,Americas,Fixed Income,309771.62,Pending,45.5,Documentation,Warsaw,Medium
+T00223,2026-05-01,Americas,Fixed Income,6703.24,Pending,12.3,Counterparty,Warsaw,Low
+T00224,2026-06-30,Americas,Equities,18972.84,Settled,67.3,None,Dallas,Medium
+T00225,2026-05-02,EMEA,Commodities,464223.06,Settled,51.6,None,Mumbai,High
+T00226,2026-06-27,EMEA,Commodities,427858.52,Settled,47.6,None,Dallas,Low
+T00227,2026-01-21,EMEA,Fixed Income,352561.21,Settled,71,None,Mumbai,Low
+T00228,2026-05-15,APAC,Commodities,103011.75,Settled,71.5,None,Warsaw,Low
+T00229,2026-04-10,APAC,Fixed Income,47693.32,Settled,59.7,None,Mumbai,Low
+T00230,2026-03-12,EMEA,Commodities,246315.98,Settled,66.8,None,Warsaw,Low
+T00231,2026-02-14,APAC,Commodities,209402.33,Pending,46.4,Counterparty,Mumbai,Low
+T00232,2026-06-23,Americas,Fixed Income,413710.4,Settled,30.9,None,Dallas,Low
+T00233,2026-02-09,Americas,Fixed Income,402161.56,Settled,15,None,Warsaw,Medium
+T00234,2026-06-26,EMEA,Fixed Income,192267.82,Settled,43.5,None,Dallas,Medium
+T00235,2026-01-12,EMEA,Fixed Income,200622.05,Settled,6.8,None,Warsaw,Low
+T00236,2026-04-22,Americas,Commodities,445553.47,Settled,1.7,None,Dallas,Low
+T00237,2026-06-21,APAC,Commodities,337115.89,Pending,59.4,Counterparty,Dallas,Medium
+T00238,2026-06-07,APAC,Equities,45864.8,Settled,36.2,None,Warsaw,High
+T00239,2026-05-01,EMEA,Commodities,125322.56,Settled,67.6,None,Dallas,Low
+T00240,2026-05-23,Americas,Commodities,126310.78,Settled,16.7,None,Mumbai,Low
+T00241,2026-05-29,APAC,Commodities,320089.45,Settled,20.1,None,Warsaw,Medium
+T00242,2026-05-04,APAC,FX,317679.48,Failed,26.9,Funding,Warsaw,Low
+T00243,2026-03-06,EMEA,FX,475837.42,Settled,1.8,None,Mumbai,Medium
+T00244,2026-06-05,Americas,Commodities,212536.85,Failed,45.3,Funding,Mumbai,Medium
+T00245,2026-02-05,EMEA,Fixed Income,196908.75,Settled,56.3,None,Mumbai,Medium
+T00246,2026-04-22,EMEA,FX,401899.37,Settled,50.2,None,Mumbai,Low
+T00247,2026-01-21,EMEA,Equities,440849.78,Settled,51.5,None,Warsaw,Medium
+T00248,2026-03-17,EMEA,Equities,400693.86,Settled,24.4,None,Warsaw,Low
+T00249,2026-03-06,EMEA,Commodities,165938.21,Settled,70.1,None,Warsaw,Low
+T00250,2026-01-27,APAC,FX,175229.11,Settled,33.6,None,Mumbai,Low
+T00251,2026-04-14,Americas,FX,68056.32,Settled,34.2,None,Warsaw,Low
+T00252,2026-02-05,Americas,FX,379383.71,Settled,14.7,None,Warsaw,Medium
+T00253,2026-02-02,APAC,Fixed Income,270240.86,Settled,71.3,None,Mumbai,Low
+T00254,2026-06-16,APAC,Commodities,39329.3,Settled,4.4,None,Warsaw,Low
+T00255,2026-06-02,EMEA,Fixed Income,102792.55,Settled,61.7,None,Dallas,Medium
+T00256,2026-01-13,EMEA,Commodities,299963.17,Settled,13.5,None,Dallas,Low
+T00257,2026-01-23,APAC,Equities,212844.93,Settled,45.4,None,Dallas,Low
+T00258,2026-06-21,EMEA,Equities,75892.46,Settled,5.6,None,Warsaw,High
+T00259,2026-06-12,Americas,Equities,288075.66,Settled,53.9,None,Mumbai,Low
+T00260,2026-05-20,EMEA,FX,446110.12,Settled,59.3,None,Dallas,Low
+T00261,2026-06-07,Americas,Fixed Income,149091.18,Settled,59.6,None,Dallas,Medium
+T00262,2026-05-31,Americas,Fixed Income,249934.89,Settled,47.8,None,Mumbai,Low
+T00263,2026-01-12,EMEA,Equities,490836.97,Settled,17.9,None,Mumbai,Low
+T00264,2026-01-09,Americas,Equities,247826.46,Settled,40.6,None,Mumbai,Low
+T00265,2026-01-12,APAC,Equities,161336.91,Settled,6.2,None,Mumbai,Low
+T00266,2026-03-04,EMEA,Fixed Income,308664.71,Settled,24.3,None,Mumbai,Low
+T00267,2026-01-30,APAC,Fixed Income,191769.68,Pending,63.4,System,Mumbai,Low
+T00268,2026-05-15,Americas,FX,105874.96,Settled,32.8,None,Mumbai,Medium
+T00269,2026-03-02,APAC,Fixed Income,173018.45,Settled,34.9,None,Dallas,Low
+T00270,2026-04-03,EMEA,Commodities,250066.61,Settled,58.7,None,Dallas,Low
+T00271,2026-06-18,Americas,Fixed Income,123649.26,Settled,4.3,None,Mumbai,High
+T00272,2026-01-04,Americas,Equities,386503.63,Settled,49.3,None,Warsaw,Low
+T00273,2026-05-30,APAC,Fixed Income,427283.23,Settled,6.6,None,Mumbai,Low
+T00274,2026-05-07,APAC,FX,5099.48,Settled,48.1,None,Warsaw,Low
+T00275,2026-02-17,APAC,Fixed Income,208649.3,Pending,3.6,System,Warsaw,Low
+T00276,2026-06-02,Americas,Commodities,306060.04,Settled,62.2,None,Dallas,High
+T00277,2026-03-29,APAC,Fixed Income,13658.31,Settled,70,None,Warsaw,Medium
+T00278,2026-01-15,APAC,Fixed Income,107389.85,Settled,23.5,None,Mumbai,Medium
+T00279,2026-03-29,APAC,Fixed Income,120676.9,Pending,34.8,Documentation,Mumbai,Low
+T00280,2026-01-28,Americas,FX,347105.91,Settled,53.8,None,Warsaw,Low
+T00281,2026-01-29,APAC,FX,187652.89,Settled,39.3,None,Mumbai,Low
+T00282,2026-01-20,EMEA,Commodities,192328,Settled,62.6,None,Warsaw,Low
+T00283,2026-02-17,Americas,Fixed Income,76602.79,Pending,29.8,Counterparty,Warsaw,High
+T00284,2026-03-05,Americas,Commodities,108576.77,Settled,25.7,None,Warsaw,High
+T00285,2026-02-14,EMEA,Fixed Income,56815.35,Settled,20.4,None,Dallas,Low
+T00286,2026-01-17,APAC,FX,99911.04,Settled,50.7,None,Mumbai,Low
+T00287,2026-01-04,Americas,Commodities,141182.48,Settled,64,None,Mumbai,Medium
+T00288,2026-03-30,APAC,Equities,453731.29,Settled,56.7,None,Warsaw,High
+T00289,2026-05-04,Americas,Fixed Income,470037.6,Settled,28.4,None,Mumbai,High
+T00290,2026-01-18,Americas,Equities,320751.6,Settled,34.5,None,Mumbai,Low
+T00291,2026-04-10,Americas,Fixed Income,21519.6,Settled,41.9,None,Mumbai,Low
+T00292,2026-03-20,Americas,FX,316811.56,Settled,5.8,None,Mumbai,Low
+T00293,2026-06-05,Americas,Equities,464448.45,Settled,63.5,None,Warsaw,Low
+T00294,2026-05-05,EMEA,Commodities,457048.57,Settled,29.2,None,Mumbai,Low
+T00295,2026-03-09,APAC,FX,184379.95,Settled,37.1,None,Warsaw,Medium
+T00296,2026-05-05,Americas,FX,468101.31,Settled,37.1,None,Dallas,Medium
+T00297,2026-05-07,EMEA,Commodities,452320.92,Settled,42.1,None,Mumbai,Medium
+T00298,2026-03-20,Americas,Fixed Income,324207.69,Settled,61.3,None,Warsaw,Low
+T00299,2026-05-18,EMEA,Commodities,11361.32,Settled,40,None,Dallas,Low
+T00300,2026-05-15,APAC,Equities,303856.83,Settled,1.9,None,Dallas,High
+T00301,2026-05-03,EMEA,Equities,412889.72,Settled,44.8,None,Mumbai,Low
+T00302,2026-05-12,EMEA,Commodities,92699.33,Settled,44.3,None,Dallas,Low
+T00303,2026-05-11,EMEA,FX,324420.84,Settled,29.7,None,Warsaw,Low
+T00304,2026-05-29,APAC,Commodities,260294.25,Settled,29.3,None,Mumbai,High
+T00305,2026-02-23,APAC,Equities,246882.23,Settled,50.1,None,Warsaw,Low
+T00306,2026-06-07,EMEA,Commodities,483872.61,Settled,55.3,None,Mumbai,Low
+T00307,2026-03-04,Americas,Fixed Income,261554.18,Settled,17,None,Mumbai,Medium
+T00308,2026-06-26,APAC,FX,418330.9,Settled,46.6,None,Warsaw,Low
+T00309,2026-03-23,EMEA,Fixed Income,28502.04,Pending,20.2,Counterparty,Mumbai,Medium
+T00310,2026-03-04,APAC,FX,73569,Failed,20.1,Documentation,Warsaw,Low
+T00311,2026-02-17,Americas,Equities,431768.45,Settled,19.2,None,Dallas,Low
+T00312,2026-03-02,EMEA,Commodities,380562.06,Pending,2.2,Funding,Mumbai,Low
+T00313,2026-03-12,EMEA,FX,442174.09,Settled,8.9,None,Warsaw,Low
+T00314,2026-01-03,Americas,Equities,32757.99,Settled,48.9,None,Mumbai,Medium
+T00315,2026-06-15,EMEA,Fixed Income,341096.61,Pending,37.9,Counterparty,Dallas,Low
+T00316,2026-04-17,Americas,Equities,405170.63,Settled,47.6,None,Warsaw,Low
+T00317,2026-06-20,Americas,Equities,141299.23,Settled,58.3,None,Mumbai,Low
+T00318,2026-05-24,EMEA,FX,193063.18,Settled,66.8,None,Mumbai,Low
+T00319,2026-04-11,Americas,FX,389066.84,Settled,51.4,None,Dallas,Low
+T00320,2026-01-14,Americas,FX,91052.57,Settled,68.6,None,Warsaw,Medium
+T00321,2026-06-04,APAC,Equities,122800.3,Settled,68.6,None,Dallas,Medium
+T00322,2026-01-05,EMEA,Fixed Income,401801.19,Settled,55.2,None,Dallas,Low
+T00323,2026-05-31,APAC,Fixed Income,148744.63,Settled,1.1,None,Dallas,Medium
+T00324,2026-02-06,APAC,Fixed Income,449440.47,Settled,68.2,None,Mumbai,Low
+T00325,2026-06-10,APAC,Fixed Income,426197.34,Pending,66.9,System,Mumbai,Medium
+T00326,2026-04-14,EMEA,Fixed Income,37466.87,Settled,59.7,None,Mumbai,Low
+T00327,2026-04-05,Americas,Commodities,285019.75,Settled,40,None,Warsaw,Low
+T00328,2026-06-29,Americas,FX,21228.55,Settled,47.4,None,Warsaw,Low
+T00329,2026-01-14,Americas,Fixed Income,261775.2,Settled,30,None,Dallas,Low
+T00330,2026-06-21,EMEA,Equities,143809.4,Settled,22.7,None,Warsaw,Medium
+T00331,2026-03-01,EMEA,Commodities,453826.16,Pending,14.9,System,Dallas,Low
+T00332,2026-05-15,EMEA,Equities,180784.37,Pending,45.8,Funding,Warsaw,Medium
+T00333,2026-04-17,EMEA,Equities,145094.15,Settled,62,None,Dallas,Low
+T00334,2026-06-28,EMEA,Fixed Income,101291.77,Settled,60.6,None,Mumbai,High
+T00335,2026-04-09,EMEA,Fixed Income,415979.91,Settled,65.5,None,Mumbai,High
+T00336,2026-06-20,APAC,Equities,17089.22,Settled,26.7,None,Dallas,Low
+T00337,2026-05-17,EMEA,Fixed Income,302759.94,Failed,19,Documentation,Mumbai,Medium
+T00338,2026-06-01,EMEA,Equities,137019.17,Failed,70.1,Funding,Dallas,Low
+T00339,2026-06-08,APAC,Fixed Income,13990.84,Settled,47.4,None,Dallas,High
+T00340,2026-05-26,APAC,Equities,297620.13,Pending,49.5,System,Dallas,Low
+T00341,2026-02-15,EMEA,Equities,428413.59,Settled,33.1,None,Dallas,Low
+T00342,2026-02-27,Americas,Equities,164377.41,Settled,54.4,None,Dallas,Low
+T00343,2026-04-15,APAC,Equities,136246.91,Pending,24.5,System,Warsaw,Low
+T00344,2026-01-04,Americas,Commodities,249546.94,Settled,60.3,None,Warsaw,High
+T00345,2026-01-03,EMEA,Fixed Income,281040.11,Settled,44.5,None,Dallas,Low
+T00346,2026-01-31,EMEA,Commodities,258435.31,Failed,26.7,Documentation,Mumbai,Low
+T00347,2026-05-13,EMEA,Fixed Income,264798.63,Settled,67.6,None,Dallas,Low
+T00348,2026-04-09,Americas,Equities,14203.94,Settled,63.9,None,Mumbai,Low
+T00349,2026-04-28,Americas,Equities,58241.37,Settled,41.3,None,Mumbai,Low
+T00350,2026-04-24,APAC,Fixed Income,415207.87,Settled,56.7,None,Mumbai,Low
+T00351,2026-04-24,EMEA,Equities,167150.55,Settled,54.9,None,Dallas,Medium
+T00352,2026-01-04,APAC,FX,23859,Settled,14.2,None,Dallas,Low
+T00353,2026-02-23,Americas,Fixed Income,243897.37,Settled,28.6,None,Warsaw,Low
+T00354,2026-01-08,APAC,Fixed Income,242700.42,Settled,68.4,None,Warsaw,Low
+T00355,2026-02-13,APAC,Equities,318461.61,Settled,3.6,None,Warsaw,Low
+T00356,2026-04-08,EMEA,Commodities,425348.79,Settled,55.9,None,Dallas,Low
+T00357,2026-06-20,APAC,Commodities,441677.58,Settled,54.7,None,Mumbai,Low
+T00358,2026-04-30,APAC,Fixed Income,346076.52,Settled,31.3,None,Mumbai,Low
+T00359,2026-02-07,Americas,Equities,216508.58,Settled,6.8,None,Dallas,Low
+T00360,2026-03-25,Americas,FX,447051.7,Settled,57.6,None,Warsaw,Low
+T00361,2026-01-11,EMEA,FX,74389.24,Settled,13.2,None,Dallas,Medium
+T00362,2026-06-22,APAC,FX,106917.49,Settled,3.2,None,Warsaw,Low
+T00363,2026-01-17,EMEA,Fixed Income,316068.45,Failed,12.1,Documentation,Warsaw,Low
+T00364,2026-01-13,Americas,Equities,308901.45,Settled,40,None,Mumbai,Low
+T00365,2026-04-13,Americas,Equities,423641.96,Settled,3.2,None,Mumbai,Low
+T00366,2026-06-26,Americas,FX,215559.83,Failed,12,Funding,Mumbai,Low
+T00367,2026-06-12,Americas,Fixed Income,492339.45,Settled,32.2,None,Warsaw,Low
+T00368,2026-04-14,Americas,Commodities,375704.88,Settled,54.9,None,Mumbai,High
+T00369,2026-04-19,Americas,Equities,328805.93,Settled,8.3,None,Dallas,Medium
+T00370,2026-01-19,Americas,Commodities,60660.72,Settled,47.1,None,Warsaw,High
+T00371,2026-01-30,EMEA,Fixed Income,458491.32,Settled,71.2,None,Dallas,Low
+T00372,2026-05-28,APAC,FX,207887.68,Settled,3.4,None,Dallas,Medium
+T00373,2026-01-07,EMEA,Equities,239108.66,Settled,23.5,None,Warsaw,Low
+T00374,2026-05-25,APAC,Commodities,445480.07,Settled,28.6,None,Mumbai,Low
+T00375,2026-05-26,APAC,Fixed Income,489585.49,Settled,17.6,None,Warsaw,Low
+T00376,2026-01-14,APAC,Equities,266433.34,Settled,16.8,None,Mumbai,Medium
+T00377,2026-02-09,EMEA,FX,496762.36,Settled,64.9,None,Dallas,Low
+T00378,2026-02-11,EMEA,Fixed Income,94934.03,Settled,62.4,None,Warsaw,Low
+T00379,2026-06-07,EMEA,Commodities,6839.37,Settled,34.8,None,Mumbai,High
+T00380,2026-04-12,EMEA,Equities,187739.58,Settled,29.9,None,Mumbai,Low
+T00381,2026-02-28,Americas,Equities,223893.67,Settled,21.8,None,Dallas,Low
+T00382,2026-05-15,EMEA,Equities,330793.17,Settled,3.8,None,Warsaw,Low
+T00383,2026-01-29,APAC,FX,191097,Settled,39.1,None,Mumbai,Low
+T00384,2026-03-20,EMEA,Commodities,120223.3,Settled,26.2,None,Dallas,High
+T00385,2026-03-08,Americas,FX,242542.83,Failed,14.3,System,Warsaw,Low
+T00386,2026-04-28,APAC,Equities,274872.73,Settled,41.6,None,Warsaw,Low
+T00387,2026-06-24,APAC,Commodities,231093.99,Pending,32.6,Counterparty,Mumbai,High
+T00388,2026-01-02,APAC,FX,451408.73,Settled,51,None,Warsaw,Low
+T00389,2026-03-05,Americas,Equities,94800.64,Settled,38.7,None,Warsaw,High
+T00390,2026-01-05,APAC,Equities,92319.08,Settled,30.7,None,Warsaw,Medium
+T00391,2026-04-18,APAC,FX,19892.22,Settled,47.5,None,Mumbai,Medium
+T00392,2026-01-16,EMEA,FX,106526.4,Settled,7.8,None,Mumbai,High
+T00393,2026-02-12,APAC,Equities,362410.29,Settled,49.9,None,Dallas,Medium
+T00394,2026-03-07,EMEA,Fixed Income,357556.31,Settled,44.4,None,Warsaw,High
+T00395,2026-05-04,Americas,Equities,9094.69,Settled,60.6,None,Warsaw,Low
+T00396,2026-01-13,EMEA,Fixed Income,311217.24,Settled,21.2,None,Warsaw,Low
+T00397,2026-05-02,EMEA,Equities,388682.53,Settled,16.7,None,Mumbai,Low
+T00398,2026-05-30,EMEA,Fixed Income,200640.86,Settled,53.8,None,Mumbai,Low
+T00399,2026-04-10,Americas,FX,223681.4,Settled,50.4,None,Warsaw,Low
+T00400,2026-06-06,EMEA,Commodities,141890.82,Settled,3.1,None,Warsaw,Low
+T00401,2026-05-05,EMEA,Equities,396397.11,Settled,25.3,None,Warsaw,Low
+T00402,2026-05-25,Americas,Equities,453339.06,Settled,66.2,None,Dallas,Low
+T00403,2026-01-27,Americas,Fixed Income,210711.64,Settled,60.1,None,Warsaw,High
+T00404,2026-02-19,EMEA,Commodities,459072.56,Settled,3.9,None,Mumbai,High
+T00405,2026-04-04,EMEA,Equities,258651.31,Settled,67.3,None,Warsaw,Medium
+T00406,2026-03-27,APAC,Commodities,164871.06,Pending,17,Counterparty,Mumbai,Medium
+T00407,2026-03-24,Americas,Commodities,271001.29,Settled,57.1,None,Mumbai,Low
+T00408,2026-01-01,Americas,Commodities,411204.64,Settled,27.4,None,Dallas,High
+T00409,2026-04-10,EMEA,Fixed Income,338367.47,Settled,62.4,None,Dallas,Medium
+T00410,2026-03-26,APAC,FX,172018.12,Settled,12.6,None,Warsaw,Low
+T00411,2026-03-27,EMEA,Equities,314864.45,Settled,24.3,None,Mumbai,Low
+T00412,2026-03-14,Americas,Commodities,140979.62,Pending,6.1,Documentation,Warsaw,Low
+T00413,2026-04-03,EMEA,FX,160785.95,Settled,57.2,None,Mumbai,Low
+T00414,2026-04-28,APAC,FX,15968.4,Settled,32.1,None,Mumbai,High
+T00415,2026-01-05,Americas,Fixed Income,157102.43,Settled,29.7,None,Warsaw,Low
+T00416,2026-05-01,Americas,FX,231051.82,Settled,67.3,None,Dallas,Low
+T00417,2026-04-23,EMEA,Fixed Income,432774.42,Settled,28.3,None,Warsaw,Low
+T00418,2026-02-12,Americas,Fixed Income,469365.62,Settled,59.9,None,Dallas,Low
+T00419,2026-06-11,EMEA,Equities,250782.8,Pending,40.9,Counterparty,Dallas,High
+T00420,2026-06-15,APAC,Equities,87342.53,Settled,58.9,None,Mumbai,Low
+T00421,2026-05-25,EMEA,Equities,7943.81,Settled,27.9,None,Dallas,Low
+T00422,2026-03-20,Americas,Fixed Income,486609.98,Settled,44.9,None,Warsaw,Medium
+T00423,2026-04-22,APAC,FX,43928.51,Settled,69.5,None,Dallas,Low
+T00424,2026-06-26,EMEA,Commodities,188557.97,Settled,62.8,None,Mumbai,Low
+T00425,2026-06-03,EMEA,FX,25951.86,Settled,58.9,None,Dallas,Low
+T00426,2026-03-03,APAC,Fixed Income,88264.91,Settled,15.9,None,Dallas,Low
+T00427,2026-06-03,APAC,Fixed Income,314758.72,Settled,24.8,None,Warsaw,Low
+T00428,2026-01-11,Americas,FX,328344.89,Settled,64.7,None,Dallas,Medium
+T00429,2026-06-02,Americas,Equities,356541.14,Settled,11.4,None,Dallas,Medium
+T00430,2026-04-22,APAC,Fixed Income,8298.86,Settled,36,None,Warsaw,Low
+T00431,2026-05-28,EMEA,Fixed Income,136919.22,Pending,30.5,System,Dallas,Low
+T00432,2026-02-11,Americas,Commodities,407329.2,Settled,54.6,None,Dallas,High
+T00433,2026-01-20,Americas,Commodities,21221.48,Settled,56.9,None,Warsaw,Low
+T00434,2026-04-26,EMEA,Commodities,464654.21,Settled,28.9,None,Dallas,Low
+T00435,2026-03-29,APAC,Fixed Income,376431.18,Failed,3.1,Documentation,Mumbai,Low
+T00436,2026-02-25,EMEA,Fixed Income,12673.22,Settled,51.1,None,Dallas,High
+T00437,2026-04-27,EMEA,Fixed Income,123174.97,Settled,40,None,Mumbai,Medium
+T00438,2026-04-18,Americas,Fixed Income,372635.43,Settled,14.4,None,Dallas,Low
+T00439,2026-06-03,APAC,Commodities,148893.45,Settled,7.4,None,Warsaw,Medium
+T00440,2026-04-21,APAC,FX,124189.26,Settled,14.9,None,Warsaw,Low
+T00441,2026-02-08,EMEA,Equities,108596.07,Settled,13,None,Mumbai,Low
+T00442,2026-04-27,EMEA,FX,180120.27,Pending,69.2,System,Warsaw,High
+T00443,2026-06-04,Americas,Commodities,286147.18,Settled,43,None,Warsaw,Low
+T00444,2026-03-08,Americas,Fixed Income,350166.82,Settled,38.5,None,Mumbai,Low
+T00445,2026-01-04,Americas,FX,484559.56,Settled,41.6,None,Dallas,Low
+T00446,2026-05-30,EMEA,FX,155075.97,Settled,4.7,None,Warsaw,Low
+T00447,2026-02-03,APAC,Commodities,147965.39,Settled,18.5,None,Dallas,Medium
+T00448,2026-03-08,Americas,FX,299998.6,Settled,60,None,Mumbai,Low
+T00449,2026-03-18,EMEA,Commodities,367897.09,Settled,58.2,None,Dallas,Low
+T00450,2026-05-08,EMEA,Fixed Income,407440.27,Settled,70.4,None,Dallas,Medium
+T00451,2026-05-17,EMEA,Commodities,279458.52,Settled,6.6,None,Warsaw,Medium
+T00452,2026-04-04,Americas,Equities,155469.91,Settled,49.6,None,Dallas,Low
+T00453,2026-05-17,EMEA,Equities,297208.08,Settled,55,None,Warsaw,Low
+T00454,2026-06-24,Americas,Commodities,293528.38,Settled,46.8,None,Mumbai,Low
+T00455,2026-01-03,EMEA,Commodities,141782.29,Pending,28.9,System,Warsaw,Medium
+T00456,2026-05-23,EMEA,FX,484428.87,Settled,59.2,None,Dallas,Low
+T00457,2026-02-14,EMEA,Commodities,35188.71,Settled,67.7,None,Warsaw,Low
+T00458,2026-02-10,EMEA,FX,175890.92,Settled,55.7,None,Warsaw,Medium
+T00459,2026-01-15,APAC,FX,339543.64,Settled,35.3,None,Dallas,Low
+T00460,2026-03-28,EMEA,FX,414787.79,Pending,47.8,Counterparty,Mumbai,Low
+T00461,2026-06-06,Americas,Equities,246083.88,Settled,31.1,None,Mumbai,Low
+T00462,2026-01-26,APAC,Fixed Income,6885.01,Failed,32,Counterparty,Warsaw,Low
+T00463,2026-03-30,APAC,Equities,230882.17,Failed,56.7,Documentation,Dallas,Medium
+T00464,2026-01-27,APAC,Equities,425422.44,Settled,63.2,None,Mumbai,Low
+T00465,2026-03-21,APAC,Fixed Income,301725.37,Settled,45.6,None,Mumbai,Medium
+T00466,2026-06-16,EMEA,Equities,168677.78,Settled,50.5,None,Warsaw,Low
+T00467,2026-01-18,Americas,FX,384335.9,Pending,45,System,Dallas,Low
+T00468,2026-01-06,Americas,FX,175143.52,Settled,65.1,None,Warsaw,Low
+T00469,2026-02-13,Americas,Equities,231931.3,Settled,34.5,None,Mumbai,Low
+T00470,2026-06-04,EMEA,FX,287499.66,Settled,36.4,None,Warsaw,Medium
+T00471,2026-06-25,EMEA,Fixed Income,147859.72,Settled,40.7,None,Warsaw,Low
+T00472,2026-05-09,Americas,Equities,298817.89,Settled,35.6,None,Dallas,Low
+T00473,2026-06-24,APAC,Equities,340796.6,Settled,9.8,None,Dallas,Medium
+T00474,2026-06-15,APAC,Commodities,57218.85,Pending,16.6,Funding,Mumbai,Low
+T00475,2026-04-06,EMEA,Equities,484371.24,Settled,49.9,None,Warsaw,Low
+T00476,2026-06-27,APAC,Equities,206973.68,Settled,20.9,None,Warsaw,Low
+T00477,2026-06-30,APAC,Commodities,284548.84,Settled,22,None,Mumbai,Low
+T00478,2026-05-12,Americas,Commodities,401969.24,Settled,12.3,None,Warsaw,Low
+T00479,2026-04-01,Americas,Equities,345755.17,Failed,39.3,System,Mumbai,Medium
+T00480,2026-03-21,APAC,Commodities,462887.8,Settled,48.2,None,Mumbai,Low
+T00481,2026-03-12,Americas,Equities,5780.19,Failed,61.1,System,Mumbai,Low
+T00482,2026-04-09,EMEA,Fixed Income,327043.17,Settled,23.3,None,Dallas,Low
+T00483,2026-06-22,Americas,Equities,406075.48,Settled,5,None,Warsaw,Medium
+T00484,2026-04-19,EMEA,FX,99136.82,Settled,53.2,None,Warsaw,Low
+T00485,2026-03-19,Americas,Equities,381122.21,Settled,10,None,Dallas,Low
+T00486,2026-02-17,Americas,Fixed Income,440117.62,Settled,40,None,Mumbai,Low
+T00487,2026-01-24,Americas,FX,194239.42,Settled,43.2,None,Dallas,Low
+T00488,2026-04-19,APAC,Fixed Income,94840.68,Failed,11.4,System,Mumbai,Low
+T00489,2026-01-31,APAC,Fixed Income,400637.93,Settled,28.1,None,Dallas,Low
+T00490,2026-03-25,EMEA,Equities,250196.3,Settled,23.4,None,Warsaw,Low
+T00491,2026-03-29,Americas,FX,316405.11,Settled,50.1,None,Mumbai,Medium
+T00492,2026-03-03,Americas,Equities,415571.49,Pending,52.6,Funding,Warsaw,High
+T00493,2026-01-28,Americas,Equities,237150.84,Settled,70,None,Dallas,Low
+T00494,2026-05-11,Americas,Commodities,44644.57,Settled,56.8,None,Dallas,Low
+T00495,2026-01-27,EMEA,Commodities,81587.05,Settled,35.6,None,Dallas,High
+T00496,2026-06-03,Americas,Equities,381270.81,Settled,3.7,None,Warsaw,Medium
+T00497,2026-02-11,EMEA,Fixed Income,20034.37,Settled,10.2,None,Warsaw,High
+T00498,2026-06-11,APAC,Fixed Income,256911.79,Settled,43.6,None,Dallas,Low
+T00499,2026-05-15,EMEA,Fixed Income,151525.88,Settled,23.4,None,Dallas,Low
+T00500,2026-02-03,Americas,Commodities,352418.02,Settled,13.7,None,Mumbai,Low
+T00501,2026-02-26,EMEA,Fixed Income,26929.23,Settled,61.6,None,Warsaw,High
+T00502,2026-02-06,APAC,Fixed Income,134725.77,Settled,8.6,None,Mumbai,Low
+T00503,2026-06-18,APAC,Commodities,414272.87,Settled,7.8,None,Dallas,Low
+T00504,2026-02-04,EMEA,Commodities,121340.02,Settled,31.5,None,Mumbai,Low
+T00505,2026-03-01,APAC,FX,482460.89,Settled,11.7,None,Dallas,Medium
+T00506,2026-03-20,EMEA,FX,28812.42,Settled,12.2,None,Mumbai,Low
+T00507,2026-05-05,EMEA,Equities,45090.36,Settled,56.3,None,Mumbai,Medium
+T00508,2026-05-24,EMEA,FX,248613.38,Settled,62.8,None,Dallas,Low
+T00509,2026-01-26,APAC,Commodities,430984.76,Settled,47.2,None,Mumbai,Low
+T00510,2026-04-12,APAC,Equities,285086.29,Settled,57.7,None,Dallas,Low
+T00511,2026-01-12,Americas,Fixed Income,462820.5,Settled,15.1,None,Mumbai,Low
+T00512,2026-02-28,APAC,Equities,112579.86,Settled,60.7,None,Dallas,Low
+T00513,2026-02-03,Americas,Equities,356967.58,Settled,32.8,None,Warsaw,Low
+T00514,2026-04-21,EMEA,FX,312430.66,Settled,48,None,Dallas,Medium
+T00515,2026-02-12,APAC,Equities,434903.81,Settled,68.7,None,Warsaw,Low
+T00516,2026-06-12,APAC,Equities,27758.71,Settled,69,None,Warsaw,Medium
+T00517,2026-05-02,APAC,FX,68010.9,Settled,55.7,None,Mumbai,Low
+T00518,2026-06-16,Americas,Equities,328075.34,Settled,66.2,None,Dallas,Low
+T00519,2026-06-13,EMEA,Fixed Income,399881.67,Pending,57.3,System,Dallas,High
+T00520,2026-02-15,Americas,Fixed Income,478586.78,Settled,31.5,None,Mumbai,Low
+T00521,2026-03-13,EMEA,FX,235282.83,Settled,25.4,None,Mumbai,High
+T00522,2026-05-11,Americas,FX,400372.55,Settled,59.8,None,Mumbai,Low
+T00523,2026-04-30,Americas,Commodities,266523.86,Settled,59,None,Warsaw,High
+T00524,2026-04-20,APAC,FX,151095.38,Settled,31.1,None,Warsaw,Low
+T00525,2026-01-15,Americas,Commodities,424738.33,Settled,18.3,None,Mumbai,Low
+T00526,2026-04-27,Americas,FX,140024.44,Settled,18.2,None,Mumbai,Low
+T00527,2026-05-18,EMEA,FX,393569.78,Settled,56.5,None,Dallas,Low
+T00528,2026-06-02,EMEA,Equities,496386.92,Settled,62.5,None,Warsaw,Medium
+T00529,2026-01-28,Americas,FX,393489.15,Settled,37.8,None,Mumbai,Low
+T00530,2026-06-20,APAC,Fixed Income,372008.73,Settled,57.7,None,Dallas,Low
+T00531,2026-05-28,EMEA,FX,130893.23,Settled,65.8,None,Warsaw,Low
+T00532,2026-03-03,EMEA,Equities,489750.84,Pending,19,Documentation,Mumbai,Medium
+T00533,2026-03-28,EMEA,FX,92810.58,Settled,3.6,None,Dallas,Low
+T00534,2026-03-01,Americas,Equities,326263.03,Settled,50.9,None,Dallas,Low
+T00535,2026-04-28,Americas,Fixed Income,79756.46,Settled,34.7,None,Mumbai,High
+T00536,2026-06-24,APAC,Fixed Income,365653.6,Settled,46.1,None,Dallas,Low
+T00537,2026-02-04,APAC,FX,21628.35,Settled,14.7,None,Mumbai,Medium
+T00538,2026-02-23,EMEA,Fixed Income,168142.4,Failed,5.8,Documentation,Warsaw,Low
+T00539,2026-01-16,APAC,Fixed Income,275506.34,Settled,70,None,Mumbai,Low
+T00540,2026-01-21,Americas,Equities,132579.89,Settled,35.7,None,Warsaw,Low
+T00541,2026-01-22,APAC,Equities,417078.71,Settled,42.6,None,Warsaw,Low
+T00542,2026-04-01,APAC,Commodities,284032.18,Pending,62,Counterparty,Mumbai,Low
+T00543,2026-04-09,APAC,Equities,431771.21,Settled,66.5,None,Dallas,Medium
+T00544,2026-05-02,Americas,Equities,304044.92,Settled,17.5,None,Dallas,Low
+T00545,2026-06-18,EMEA,FX,350760.09,Settled,6.5,None,Dallas,Medium
+T00546,2026-04-24,Americas,FX,142386.83,Settled,65.7,None,Warsaw,Low
+T00547,2026-05-10,APAC,Equities,489263.39,Settled,13,None,Mumbai,Low
+T00548,2026-03-03,EMEA,Fixed Income,33417.08,Pending,18.7,System,Mumbai,Low
+T00549,2026-06-12,Americas,Fixed Income,368651.2,Settled,8.3,None,Warsaw,High
+T00550,2026-06-17,Americas,Commodities,137104.46,Settled,10.5,None,Dallas,Low
+T00551,2026-04-10,APAC,Equities,238846.72,Settled,27.6,None,Warsaw,Low
+T00552,2026-04-06,EMEA,FX,230395.68,Settled,44.8,None,Dallas,Medium
+T00553,2026-06-19,EMEA,Fixed Income,356047.99,Pending,59.2,System,Warsaw,Low
+T00554,2026-06-08,APAC,Fixed Income,126832,Settled,20.7,None,Warsaw,Medium
+T00555,2026-05-11,EMEA,FX,376348.34,Settled,42.7,None,Dallas,Low
+T00556,2026-02-11,EMEA,Commodities,450124.63,Settled,64.2,None,Dallas,Low
+T00557,2026-02-06,Americas,FX,236425.43,Settled,37.2,None,Dallas,Medium
+T00558,2026-06-18,Americas,Commodities,423248.01,Settled,57,None,Dallas,Medium
+T00559,2026-02-08,APAC,Commodities,10790.53,Settled,58.7,None,Warsaw,Low
+T00560,2026-05-07,Americas,Equities,353694.29,Settled,31.5,None,Mumbai,Medium
+T00561,2026-04-15,APAC,Equities,428344.12,Settled,44,None,Mumbai,High
+T00562,2026-04-07,Americas,Equities,398127.12,Settled,38.9,None,Warsaw,Medium
+T00563,2026-06-17,APAC,Equities,97613.28,Settled,14.3,None,Mumbai,Medium
+T00564,2026-02-20,Americas,FX,277346.46,Settled,28.1,None,Dallas,Low
+T00565,2026-05-15,EMEA,Equities,232478.2,Settled,65.9,None,Mumbai,Low
+T00566,2026-06-05,APAC,FX,435207.26,Settled,16.5,None,Mumbai,Low
+T00567,2026-03-09,EMEA,Commodities,382727.78,Settled,27.9,None,Mumbai,Medium
+T00568,2026-02-09,APAC,Commodities,393289.2,Settled,32,None,Warsaw,Low
+T00569,2026-05-31,APAC,Fixed Income,336212.45,Failed,40.5,Documentation,Warsaw,Medium
+T00570,2026-05-09,EMEA,FX,74122.23,Settled,38.9,None,Mumbai,Low
+T00571,2026-01-18,EMEA,Equities,292698.18,Settled,3.3,None,Dallas,Low
+T00572,2026-05-08,EMEA,Fixed Income,163921.87,Settled,29.5,None,Mumbai,Low
+T00573,2026-06-07,EMEA,Fixed Income,236013.3,Settled,63,None,Warsaw,Low
+T00574,2026-03-12,Americas,Equities,276587.25,Settled,7.4,None,Mumbai,Medium
+T00575,2026-01-26,EMEA,Equities,381509.94,Settled,21.7,None,Warsaw,Low
+T00576,2026-02-09,Americas,Fixed Income,447533.39,Pending,64.8,Funding,Dallas,Medium
+T00577,2026-01-28,EMEA,Fixed Income,455672.73,Settled,51.5,None,Warsaw,Medium
+T00578,2026-05-09,EMEA,Equities,190965.73,Settled,3,None,Mumbai,Low
+T00579,2026-03-14,APAC,Commodities,349860.86,Settled,33.3,None,Warsaw,Low
+T00580,2026-03-29,Americas,Commodities,120832.81,Settled,56.7,None,Dallas,High
+T00581,2026-03-18,EMEA,FX,356323.23,Settled,59.5,None,Mumbai,Low
+T00582,2026-04-28,EMEA,Fixed Income,450293.78,Settled,42.8,None,Mumbai,Low
+T00583,2026-01-28,EMEA,Fixed Income,340012.12,Settled,64.8,None,Dallas,Low
+T00584,2026-05-09,EMEA,FX,393581.28,Settled,35.5,None,Warsaw,Medium
+T00585,2026-02-25,Americas,FX,76349.43,Settled,20.1,None,Mumbai,Low
+T00586,2026-03-09,EMEA,Fixed Income,117307.41,Settled,3.1,None,Warsaw,Low
+T00587,2026-02-18,Americas,Equities,240902.26,Settled,37.4,None,Mumbai,Medium
+T00588,2026-02-09,EMEA,Fixed Income,445180.16,Settled,40.3,None,Warsaw,High
+T00589,2026-03-25,Americas,Equities,59404.48,Settled,52.7,None,Warsaw,Low
+T00590,2026-01-03,EMEA,Equities,199879.2,Pending,21,Counterparty,Mumbai,Low
+T00591,2026-04-13,Americas,Fixed Income,489617.11,Settled,25,None,Mumbai,Low
+T00592,2026-06-04,EMEA,Equities,124183.6,Settled,63.5,None,Mumbai,High
+T00593,2026-06-20,APAC,Fixed Income,248765.3,Settled,24.3,None,Dallas,Medium
+T00594,2026-02-06,Americas,Commodities,364230.95,Settled,38.4,None,Dallas,Low
+T00595,2026-02-17,Americas,FX,160891.65,Settled,6.7,None,Dallas,Low
+T00596,2026-02-25,Americas,Equities,435252.94,Settled,37,None,Warsaw,Low
+T00597,2026-03-06,EMEA,Commodities,21837.78,Settled,52.2,None,Dallas,High
+T00598,2026-02-02,Americas,Fixed Income,5986.61,Settled,34.9,None,Warsaw,Low
+T00599,2026-04-01,Americas,Fixed Income,56791.77,Settled,17.4,None,Warsaw,Low
+T00600,2026-01-04,APAC,Commodities,462319.52,Pending,25.8,Counterparty,Mumbai,Low
+T00601,2026-06-22,EMEA,FX,494959.49,Settled,49.5,None,Mumbai,Low
+T00602,2026-03-07,Americas,FX,127747.51,Settled,24.9,None,Mumbai,Medium
+T00603,2026-01-01,APAC,Commodities,256495.58,Settled,19,None,Dallas,Low
+T00604,2026-06-20,Americas,Commodities,180523.15,Settled,60.2,None,Mumbai,Low
+T00605,2026-01-16,APAC,Equities,439140.26,Settled,69.2,None,Dallas,Low
+T00606,2026-03-19,Americas,Equities,152241.92,Settled,2.3,None,Warsaw,Medium
+T00607,2026-03-30,APAC,Equities,427071.33,Settled,54.2,None,Mumbai,Low
+T00608,2026-01-22,APAC,FX,138302.8,Settled,36.3,None,Dallas,Low
+T00609,2026-01-12,Americas,Fixed Income,137706.04,Settled,9.6,None,Warsaw,Low
+T00610,2026-06-05,EMEA,Commodities,56879.76,Settled,43.3,None,Dallas,Medium
+T00611,2026-06-12,Americas,Equities,214481.55,Settled,11,None,Dallas,Low
+T00612,2026-06-09,Americas,Commodities,341504.74,Settled,14.4,None,Dallas,Low
+T00613,2026-02-19,APAC,Equities,130253.64,Settled,38.2,None,Warsaw,High
+T00614,2026-04-01,EMEA,Fixed Income,324825.81,Settled,16.6,None,Mumbai,Medium
+T00615,2026-01-30,APAC,Equities,30592.98,Settled,42.5,None,Mumbai,Low
+T00616,2026-03-13,EMEA,Equities,48063.79,Settled,62.9,None,Warsaw,Medium
+T00617,2026-02-09,Americas,Commodities,182650.84,Settled,26.4,None,Dallas,High
+T00618,2026-06-30,EMEA,FX,474103.26,Settled,28.7,None,Dallas,Medium
+T00619,2026-06-03,APAC,FX,388078.23,Settled,45.9,None,Warsaw,Low
+T00620,2026-06-25,EMEA,Fixed Income,335363.42,Settled,27.2,None,Mumbai,Low
+T00621,2026-01-02,EMEA,Equities,309956.87,Settled,7.9,None,Dallas,Low
+T00622,2026-05-16,EMEA,FX,253904.96,Settled,43.7,None,Warsaw,Medium
+T00623,2026-04-15,EMEA,Equities,456475.01,Settled,48.4,None,Warsaw,Medium
+T00624,2026-04-25,Americas,Fixed Income,426334.12,Settled,65.2,None,Warsaw,Low
+T00625,2026-03-08,APAC,FX,322188,Settled,45.7,None,Warsaw,Low
+T00626,2026-04-04,APAC,Fixed Income,46143.85,Settled,55.1,None,Dallas,Low
+T00627,2026-02-15,EMEA,Equities,475163.88,Settled,25.5,None,Mumbai,Medium
+T00628,2026-06-09,APAC,Fixed Income,248435.05,Settled,46.4,None,Dallas,Low
+T00629,2026-04-15,APAC,FX,431334,Settled,47.3,None,Dallas,Low
+T00630,2026-05-27,APAC,Fixed Income,221636.06,Settled,25.7,None,Warsaw,Low
+T00631,2026-02-23,Americas,Fixed Income,487407.19,Pending,3.9,Documentation,Mumbai,Low
+T00632,2026-02-12,Americas,Fixed Income,167134.56,Settled,4.8,None,Mumbai,High
+T00633,2026-01-26,EMEA,FX,288921.41,Pending,27.3,System,Warsaw,High
+T00634,2026-04-21,Americas,Fixed Income,291386.94,Settled,62.7,None,Mumbai,Low
+T00635,2026-02-12,APAC,Equities,411420.91,Settled,18.1,None,Dallas,Low
+T00636,2026-04-28,EMEA,Commodities,227628.39,Pending,29.9,Documentation,Mumbai,Low
+T00637,2026-03-26,EMEA,Fixed Income,89574.79,Pending,31.8,Funding,Dallas,Low
+T00638,2026-03-11,APAC,FX,398387.82,Settled,14.7,None,Warsaw,Low
+T00639,2026-01-03,Americas,Fixed Income,231512.23,Settled,68.5,None,Warsaw,Low
+T00640,2026-01-17,Americas,Fixed Income,188604.09,Pending,45.9,Counterparty,Dallas,Low
+T00641,2026-04-30,APAC,Commodities,396465.69,Settled,33.9,None,Mumbai,Low
+T00642,2026-02-21,APAC,FX,416820.76,Settled,62.3,None,Mumbai,Low
+T00643,2026-04-06,Americas,Commodities,480868.58,Settled,25.5,None,Dallas,Medium
+T00644,2026-01-30,APAC,Equities,8833.66,Settled,50,None,Warsaw,Low
+T00645,2026-01-16,EMEA,Fixed Income,145893.23,Settled,28.1,None,Warsaw,Low
+T00646,2026-05-08,APAC,Commodities,319454.24,Settled,65.6,None,Warsaw,Low
+T00647,2026-01-08,EMEA,Equities,425093.85,Settled,28.8,None,Warsaw,Low
+T00648,2026-01-03,EMEA,Commodities,224244.17,Settled,30.6,None,Warsaw,Low
+T00649,2026-05-28,APAC,FX,304249.78,Settled,29.3,None,Warsaw,Low
+T00650,2026-01-16,EMEA,Equities,95664.98,Settled,16.5,None,Dallas,Medium
+T00651,2026-06-27,Americas,Fixed Income,340697.31,Pending,28.1,System,Dallas,Medium
+T00652,2026-01-08,APAC,Commodities,492112.04,Settled,38.6,None,Warsaw,Low
+T00653,2026-05-25,EMEA,Equities,31327.18,Settled,23.5,None,Dallas,Low
+T00654,2026-01-09,EMEA,FX,225528.83,Settled,52.4,None,Warsaw,Medium
+T00655,2026-04-23,Americas,FX,195068.29,Pending,70.7,Counterparty,Dallas,Low
+T00656,2026-06-09,Americas,Equities,315440.36,Settled,32.6,None,Dallas,Low
+T00657,2026-01-21,APAC,Fixed Income,99797.07,Settled,4,None,Mumbai,Low
+T00658,2026-05-25,EMEA,Fixed Income,268153.62,Settled,38.3,None,Mumbai,Medium
+T00659,2026-06-17,Americas,Fixed Income,245565.69,Settled,35.9,None,Dallas,Medium
+T00660,2026-03-22,Americas,Commodities,138469.84,Settled,58.3,None,Dallas,Low
+T00661,2026-02-07,APAC,FX,274760.16,Settled,58.8,None,Warsaw,Low
+T00662,2026-04-03,Americas,Commodities,18252.9,Settled,27.3,None,Warsaw,Low
+T00663,2026-01-31,EMEA,Equities,23476.06,Settled,19.9,None,Mumbai,Low
+T00664,2026-06-24,Americas,Fixed Income,26582.09,Settled,34.1,None,Dallas,Low
+T00665,2026-05-11,APAC,Fixed Income,141597.66,Settled,20.3,None,Dallas,Medium
+T00666,2026-01-05,Americas,FX,277827.05,Settled,50.7,None,Dallas,High
+T00667,2026-05-04,Americas,Fixed Income,218542.96,Pending,37.9,Counterparty,Dallas,Low
+T00668,2026-03-10,Americas,FX,414942.65,Pending,47.7,Documentation,Warsaw,Low
+T00669,2026-02-23,Americas,Commodities,100705.1,Settled,51.5,None,Warsaw,Low
+T00670,2026-06-22,APAC,Equities,369217.31,Settled,9.8,None,Dallas,Low
+T00671,2026-06-03,EMEA,FX,169829.81,Pending,13.8,Counterparty,Warsaw,Low
+T00672,2026-03-16,Americas,FX,44282.47,Settled,67.2,None,Mumbai,Medium
+T00673,2026-02-22,Americas,Commodities,197865.82,Settled,40.5,None,Warsaw,Medium
+T00674,2026-05-08,Americas,FX,56616.46,Settled,69,None,Mumbai,Low
+T00675,2026-06-22,EMEA,Fixed Income,57606.07,Settled,41.8,None,Mumbai,Medium
+T00676,2026-03-19,APAC,FX,323350.19,Settled,14.9,None,Dallas,Medium
+T00677,2026-02-01,Americas,Fixed Income,376240.4,Settled,52.4,None,Warsaw,Medium
+T00678,2026-06-28,APAC,FX,20587.91,Settled,56.5,None,Dallas,Low
+T00679,2026-03-03,APAC,Commodities,267809.78,Pending,37.4,Counterparty,Warsaw,Low
+T00680,2026-06-12,APAC,Commodities,53996.03,Failed,58.2,Documentation,Mumbai,Medium
+T00681,2026-06-03,EMEA,FX,475733.92,Settled,70.8,None,Warsaw,Low
+T00682,2026-04-09,EMEA,Equities,394199.92,Settled,69.1,None,Dallas,Low
+T00683,2026-02-22,EMEA,Fixed Income,67147.77,Settled,5.7,None,Mumbai,Medium
+T00684,2026-04-22,EMEA,Equities,358503.69,Settled,66.6,None,Warsaw,Medium
+T00685,2026-05-20,EMEA,Commodities,430918.74,Settled,1.8,None,Warsaw,Medium
+T00686,2026-05-22,APAC,Commodities,257193.89,Settled,65.7,None,Dallas,Low
+T00687,2026-04-17,EMEA,Commodities,452313.4,Settled,24.4,None,Mumbai,Low
+T00688,2026-03-15,APAC,Fixed Income,310937.81,Settled,17.3,None,Mumbai,Low
+T00689,2026-02-22,Americas,Fixed Income,366984.53,Settled,54.6,None,Warsaw,Low
+T00690,2026-01-22,EMEA,FX,404237.04,Settled,63.4,None,Mumbai,High
+T00691,2026-01-17,APAC,Fixed Income,80559.54,Settled,60.6,None,Dallas,Low
+T00692,2026-02-18,Americas,Commodities,329137.74,Settled,15.5,None,Dallas,Low
+T00693,2026-03-10,EMEA,Commodities,449234.09,Pending,66.7,Documentation,Warsaw,High
+T00694,2026-01-21,EMEA,Commodities,11898.95,Settled,15.6,None,Dallas,Medium
+T00695,2026-03-05,Americas,FX,218845.93,Settled,63.9,None,Mumbai,Low
+T00696,2026-03-27,APAC,Commodities,422182.14,Settled,54.8,None,Warsaw,Low
+T00697,2026-05-04,APAC,Fixed Income,99494.31,Settled,52.1,None,Dallas,Medium
+T00698,2026-01-05,Americas,FX,132236.4,Settled,13.1,None,Dallas,Low
+T00699,2026-04-22,Americas,Commodities,33019.96,Settled,44.8,None,Warsaw,Low
+T00700,2026-04-23,APAC,Equities,118557.41,Settled,60.9,None,Dallas,High
+T00701,2026-06-19,APAC,Commodities,312940.69,Settled,39.9,None,Warsaw,Medium
+T00702,2026-04-08,Americas,Equities,48012.83,Settled,32.9,None,Warsaw,Low
+T00703,2026-03-13,APAC,Fixed Income,460739.67,Settled,15.1,None,Warsaw,Medium
+T00704,2026-02-19,EMEA,Equities,40685.44,Settled,23.2,None,Warsaw,Low
+T00705,2026-02-06,Americas,Equities,457760.98,Settled,67.9,None,Dallas,Low
+T00706,2026-05-29,EMEA,Fixed Income,366489.32,Settled,24.6,None,Mumbai,Low
+T00707,2026-01-18,APAC,Commodities,492651.71,Settled,11.4,None,Mumbai,Low
+T00708,2026-01-03,Americas,Equities,417398.83,Settled,54.1,None,Warsaw,Low
+T00709,2026-04-14,Americas,Equities,355601.61,Settled,29.8,None,Dallas,Low
+T00710,2026-04-26,EMEA,FX,424441.99,Settled,44.5,None,Warsaw,Low
+T00711,2026-01-07,EMEA,Commodities,465059.83,Failed,6.3,Counterparty,Mumbai,Low
+T00712,2026-06-14,EMEA,Commodities,192242.84,Settled,60.8,None,Dallas,Low
+T00713,2026-03-07,Americas,Commodities,390831.44,Settled,64.5,None,Mumbai,Low
+T00714,2026-04-10,EMEA,Fixed Income,270088.86,Pending,34.3,Documentation,Mumbai,High
+T00715,2026-01-12,Americas,Equities,186642.86,Settled,23.4,None,Dallas,Low
+T00716,2026-06-23,Americas,Equities,175378.06,Settled,9.4,None,Mumbai,Low
+T00717,2026-02-25,APAC,Fixed Income,295190.89,Settled,26,None,Mumbai,Low
+T00718,2026-05-02,EMEA,Equities,14029.07,Settled,44,None,Mumbai,Low
+T00719,2026-02-10,APAC,Equities,55795.66,Pending,38.3,System,Dallas,Low
+T00720,2026-06-01,Americas,Fixed Income,397126.91,Settled,66.8,None,Dallas,Low
+T00721,2026-06-26,EMEA,Commodities,198473.88,Failed,31.9,System,Warsaw,High
+T00722,2026-06-22,Americas,FX,495731.23,Settled,14.4,None,Warsaw,High
+T00723,2026-05-09,EMEA,Commodities,61508.03,Settled,71.9,None,Warsaw,Low
+T00724,2026-02-27,APAC,Commodities,430483.92,Settled,26.3,None,Warsaw,Medium
+T00725,2026-06-04,Americas,FX,336469.03,Settled,22.9,None,Warsaw,Low
+T00726,2026-04-08,Americas,Commodities,269607.43,Settled,46.5,None,Mumbai,Low
+T00727,2026-01-21,APAC,Fixed Income,281662.79,Settled,43.4,None,Mumbai,Medium
+T00728,2026-03-25,Americas,FX,247079.15,Pending,14.7,Documentation,Dallas,Low
+T00729,2026-04-13,EMEA,Equities,85523.03,Settled,66.7,None,Warsaw,Low
+T00730,2026-06-03,APAC,Fixed Income,442782.53,Settled,18.7,None,Warsaw,Low
+T00731,2026-02-28,EMEA,Commodities,120818.77,Settled,69.9,None,Warsaw,Medium
+T00732,2026-06-10,APAC,Commodities,210114.45,Settled,31.2,None,Mumbai,Low
+T00733,2026-01-10,EMEA,FX,339433.28,Settled,69.3,None,Warsaw,Medium
+T00734,2026-06-23,EMEA,Fixed Income,474589.26,Settled,65.4,None,Mumbai,Medium
+T00735,2026-05-26,EMEA,Fixed Income,250451.62,Pending,42.1,Counterparty,Dallas,Low
+T00736,2026-03-10,EMEA,Commodities,207624.74,Settled,12.4,None,Warsaw,Low
+T00737,2026-05-23,Americas,Commodities,123138.37,Settled,47,None,Warsaw,Low
+T00738,2026-01-31,Americas,Equities,38354.85,Pending,63.4,System,Warsaw,Low
+T00739,2026-03-02,Americas,Fixed Income,80961.78,Settled,67.2,None,Mumbai,Low
+T00740,2026-05-25,Americas,Fixed Income,241866.9,Settled,9.8,None,Dallas,Low
+T00741,2026-04-13,APAC,Fixed Income,396906.51,Pending,7.2,Counterparty,Mumbai,Low
+T00742,2026-02-03,EMEA,FX,364431.93,Settled,30.4,None,Mumbai,Low
+T00743,2026-01-17,APAC,Equities,333904.76,Settled,35.7,None,Mumbai,Low
+T00744,2026-01-31,Americas,Equities,417635.53,Settled,60,None,Warsaw,Low
+T00745,2026-04-14,APAC,FX,37927.52,Failed,9.4,Documentation,Mumbai,Low
+T00746,2026-05-10,Americas,Equities,167432.12,Settled,46.7,None,Dallas,Medium
+T00747,2026-06-05,Americas,Commodities,46657.48,Settled,50.9,None,Dallas,Low
+T00748,2026-03-01,APAC,Equities,300510.24,Settled,33.4,None,Mumbai,High
+T00749,2026-04-19,EMEA,Commodities,28689.2,Failed,50.3,Funding,Warsaw,Low
+T00750,2026-04-09,EMEA,Equities,354161.26,Settled,2.2,None,Dallas,Low
+T00751,2026-02-12,Americas,Equities,76971.02,Settled,18.6,None,Warsaw,Low
+T00752,2026-05-02,EMEA,Fixed Income,171355.24,Settled,33.1,None,Mumbai,Medium
+T00753,2026-02-05,EMEA,Commodities,453132.13,Settled,58.4,None,Mumbai,Medium
+T00754,2026-04-20,EMEA,Equities,230087.02,Settled,63.4,None,Warsaw,Low
+T00755,2026-04-18,EMEA,FX,117469.4,Pending,18.3,System,Mumbai,Medium
+T00756,2026-05-20,Americas,FX,314045.76,Settled,15,None,Dallas,Low
+T00757,2026-03-03,APAC,Fixed Income,45247.08,Settled,39.1,None,Mumbai,Medium
+T00758,2026-02-25,Americas,Fixed Income,254865.01,Pending,9.1,System,Dallas,Low
+T00759,2026-05-13,EMEA,FX,86289.16,Settled,34.9,None,Warsaw,High
+T00760,2026-03-01,APAC,Commodities,311986.55,Settled,68.4,None,Warsaw,Low
+T00761,2026-02-02,Americas,Equities,16196.11,Settled,15.8,None,Dallas,Low
+T00762,2026-02-23,Americas,Equities,382561.5,Settled,8.5,None,Warsaw,Low
+T00763,2026-01-01,APAC,Commodities,199844.4,Settled,65.8,None,Warsaw,Medium
+T00764,2026-01-13,APAC,FX,202133.23,Settled,47.9,None,Warsaw,Low
+T00765,2026-05-30,Americas,Fixed Income,284717.85,Settled,9.7,None,Warsaw,High
+T00766,2026-01-19,EMEA,FX,438665.46,Settled,50.8,None,Dallas,Low
+T00767,2026-02-27,APAC,Commodities,409254.18,Failed,27.5,Funding,Warsaw,Low
+T00768,2026-01-19,APAC,Fixed Income,214551,Settled,17.6,None,Mumbai,Low
+T00769,2026-02-04,APAC,FX,477897.02,Pending,46,Funding,Mumbai,Medium
+T00770,2026-02-12,APAC,FX,478146.75,Pending,22.8,Counterparty,Dallas,Medium
+T00771,2026-06-26,EMEA,Fixed Income,269489.45,Settled,8.4,None,Mumbai,Low
+T00772,2026-01-26,EMEA,Equities,215972.03,Settled,24.2,None,Warsaw,Medium
+T00773,2026-03-29,APAC,Commodities,294885.3,Settled,62.1,None,Warsaw,High
+T00774,2026-03-04,Americas,Commodities,384906.76,Settled,67.9,None,Mumbai,Low
+T00775,2026-06-25,APAC,Fixed Income,347176.27,Pending,5.4,System,Warsaw,Low
+T00776,2026-01-03,Americas,Fixed Income,369406.41,Settled,47.6,None,Mumbai,Low
+T00777,2026-06-28,APAC,Fixed Income,36184.24,Settled,69.3,None,Mumbai,Low
+T00778,2026-03-19,EMEA,Commodities,121395.55,Settled,17.3,None,Mumbai,Low
+T00779,2026-05-04,Americas,Fixed Income,462718.86,Pending,34.6,Documentation,Dallas,Medium
+T00780,2026-01-29,EMEA,Commodities,180976.99,Settled,55,None,Warsaw,Low
+T00781,2026-06-14,APAC,Equities,56023.85,Failed,57.2,System,Warsaw,Low
+T00782,2026-03-20,APAC,Fixed Income,19661.54,Settled,66.9,None,Dallas,Medium
+T00783,2026-01-03,Americas,Commodities,11165.62,Settled,63.3,None,Warsaw,High
+T00784,2026-01-11,Americas,FX,157147.69,Pending,47.5,Documentation,Warsaw,Low
+T00785,2026-04-01,APAC,Commodities,287418.14,Settled,54.5,None,Mumbai,Low
+T00786,2026-01-16,APAC,Commodities,288818.06,Settled,47.9,None,Warsaw,Low
+T00787,2026-06-20,APAC,Commodities,173838.8,Settled,10.1,None,Warsaw,Medium
+T00788,2026-05-11,APAC,Equities,297798.17,Settled,53.5,None,Dallas,Low
+T00789,2026-02-14,Americas,Fixed Income,231502.78,Settled,70.8,None,Warsaw,Low
+T00790,2026-02-19,EMEA,Commodities,23649.52,Settled,61.1,None,Dallas,Low
+T00791,2026-04-26,EMEA,Equities,92949.32,Settled,57.3,None,Dallas,Medium
+T00792,2026-02-26,Americas,Fixed Income,81167.66,Settled,53.6,None,Warsaw,Medium
+T00793,2026-05-17,Americas,Equities,93015.58,Settled,32.7,None,Warsaw,Low
+T00794,2026-06-30,Americas,Commodities,426946.47,Settled,59.6,None,Dallas,Low
+T00795,2026-06-10,APAC,FX,337742.56,Settled,60,None,Warsaw,Low
+T00796,2026-06-22,APAC,Equities,166854.9,Settled,4.1,None,Mumbai,Low
+T00797,2026-04-19,EMEA,Equities,299148.57,Settled,19,None,Warsaw,Low
+T00798,2026-03-26,EMEA,Commodities,256191.8,Settled,34.9,None,Warsaw,Low
+T00799,2026-03-17,APAC,FX,184809.38,Settled,33,None,Warsaw,Low
+T00800,2026-02-13,Americas,Commodities,370528.25,Settled,39.4,None,Warsaw,Medium
+T00801,2026-03-02,EMEA,Fixed Income,147768.81,Settled,33.5,None,Warsaw,Medium
+T00802,2026-02-08,EMEA,FX,435998.66,Settled,53.7,None,Dallas,Low
+T00803,2026-04-23,Americas,Equities,117279.74,Settled,68.5,None,Mumbai,Low
+T00804,2026-05-15,EMEA,Fixed Income,434914.69,Failed,9.7,Counterparty,Warsaw,Low
+T00805,2026-05-23,APAC,FX,362015.31,Pending,45.5,Counterparty,Warsaw,High
+T00806,2026-01-18,EMEA,Equities,143915.76,Failed,62.6,Documentation,Warsaw,Medium
+T00807,2026-01-30,APAC,Fixed Income,362821.93,Settled,55.2,None,Dallas,Medium
+T00808,2026-02-23,APAC,Equities,52075.75,Settled,8.1,None,Dallas,Low
+T00809,2026-01-30,Americas,Commodities,408283.89,Settled,37.5,None,Warsaw,High
+T00810,2026-02-17,EMEA,Equities,60644.13,Settled,58.9,None,Warsaw,Medium
+T00811,2026-05-10,EMEA,Fixed Income,486230.63,Settled,30.9,None,Mumbai,Medium
+T00812,2026-03-06,Americas,FX,38465.33,Settled,70.1,None,Dallas,Low
+T00813,2026-01-03,APAC,Commodities,338293.54,Settled,38.7,None,Dallas,Low
+T00814,2026-04-06,EMEA,Commodities,19547.81,Settled,44.9,None,Dallas,High
+T00815,2026-01-19,EMEA,Commodities,443661.31,Settled,12.2,None,Dallas,Low
+T00816,2026-06-27,APAC,Commodities,217175.26,Settled,52.3,None,Mumbai,Low
+T00817,2026-01-26,EMEA,Equities,13970.6,Settled,45.4,None,Warsaw,Low
+T00818,2026-02-22,EMEA,FX,205790.35,Settled,40.4,None,Mumbai,Low
+T00819,2026-03-15,EMEA,Equities,362612.5,Settled,34.2,None,Dallas,Low
+T00820,2026-01-30,Americas,Commodities,223724.31,Settled,68.5,None,Dallas,Low
+T00821,2026-04-05,APAC,Commodities,25685.14,Failed,32.9,Funding,Mumbai,High
+T00822,2026-02-05,EMEA,Fixed Income,227548.64,Settled,41.5,None,Mumbai,Low
+T00823,2026-03-02,Americas,Fixed Income,171294.53,Settled,13.2,None,Warsaw,Medium
+T00824,2026-04-13,EMEA,FX,149015.5,Settled,13.6,None,Dallas,Low
+T00825,2026-04-20,Americas,Commodities,364837.61,Settled,65.6,None,Mumbai,Medium
+T00826,2026-04-14,Americas,Equities,385534.68,Settled,34.4,None,Dallas,Low
+T00827,2026-04-20,Americas,Commodities,489932.19,Settled,45.8,None,Dallas,Low
+T00828,2026-06-04,Americas,FX,314154.08,Settled,3,None,Dallas,Medium
+T00829,2026-01-28,EMEA,FX,15812.9,Pending,52.8,Counterparty,Dallas,Low
+T00830,2026-03-04,EMEA,FX,32924.98,Settled,38.3,None,Dallas,Low
+T00831,2026-03-20,Americas,Commodities,193577.54,Pending,27.7,Counterparty,Warsaw,Low
+T00832,2026-06-28,Americas,Equities,369207.9,Pending,25.4,Documentation,Dallas,Low
+T00833,2026-03-25,EMEA,FX,401396.64,Settled,29.3,None,Mumbai,Low
+T00834,2026-01-20,APAC,FX,284026.11,Settled,14.6,None,Mumbai,Medium
+T00835,2026-05-01,Americas,FX,99302.32,Settled,23.2,None,Mumbai,Low
+T00836,2026-04-29,Americas,Equities,167255.9,Failed,18.3,Funding,Mumbai,Low
+T00837,2026-05-20,Americas,Commodities,174730.06,Settled,42.3,None,Mumbai,Medium
+T00838,2026-02-11,APAC,Equities,465082.56,Settled,41.1,None,Dallas,Low
+T00839,2026-01-13,APAC,Fixed Income,456833.9,Settled,34.2,None,Dallas,Low
+T00840,2026-06-16,Americas,Equities,351978.94,Settled,56.5,None,Warsaw,Medium
+T00841,2026-03-10,Americas,FX,186853.22,Settled,43.8,None,Mumbai,Medium
+T00842,2026-04-19,EMEA,Fixed Income,60563.71,Failed,42.6,System,Warsaw,Low
+T00843,2026-06-24,EMEA,Fixed Income,311562.94,Settled,43.1,None,Dallas,Medium
+T00844,2026-03-08,APAC,Fixed Income,280380.37,Settled,47.7,None,Mumbai,Low
+T00845,2026-03-02,EMEA,FX,21845.69,Settled,64.2,None,Mumbai,Low
+T00846,2026-04-18,APAC,FX,426944.01,Settled,2.3,None,Dallas,Low
+T00847,2026-02-01,EMEA,Fixed Income,497850.45,Settled,23.4,None,Warsaw,Low
+T00848,2026-04-15,EMEA,Equities,400047.77,Pending,16.1,Funding,Warsaw,Medium
+T00849,2026-04-28,APAC,FX,272534.83,Settled,34.9,None,Dallas,Medium
+T00850,2026-01-25,APAC,Equities,224609.91,Settled,51.5,None,Warsaw,Medium
+T00851,2026-04-15,Americas,Fixed Income,403355.07,Settled,23.1,None,Dallas,High
+T00852,2026-04-26,Americas,FX,366585.62,Settled,48.1,None,Warsaw,Low
+T00853,2026-05-25,APAC,Equities,110212.31,Settled,43.8,None,Dallas,Low
+T00854,2026-06-06,Americas,Commodities,369204.09,Settled,53.5,None,Dallas,Low
+T00855,2026-04-29,EMEA,Commodities,118860.02,Settled,26.6,None,Dallas,Low
+T00856,2026-03-26,EMEA,Commodities,182153.36,Settled,9.1,None,Warsaw,Low
+T00857,2026-03-26,Americas,Equities,477947.49,Settled,56.4,None,Warsaw,Low
+T00858,2026-05-13,APAC,Commodities,108868.84,Settled,13.3,None,Dallas,Medium
+T00859,2026-02-06,Americas,Commodities,51029.62,Settled,58.8,None,Dallas,Low
+T00860,2026-05-23,Americas,FX,22469.34,Settled,45.3,None,Warsaw,Low
+T00861,2026-06-16,EMEA,FX,458554.38,Settled,26.3,None,Dallas,Low
+T00862,2026-02-20,EMEA,Equities,389531.08,Settled,41.9,None,Warsaw,Low
+T00863,2026-01-04,APAC,Equities,408047.42,Settled,59,None,Mumbai,Low
+T00864,2026-01-12,EMEA,Fixed Income,372762.4,Settled,27.5,None,Dallas,Low
+T00865,2026-01-12,APAC,Equities,32218.02,Pending,29,Counterparty,Warsaw,Low
+T00866,2026-04-20,Americas,FX,234921.24,Settled,14.5,None,Dallas,Low
+T00867,2026-06-23,Americas,Fixed Income,130624.18,Settled,37.8,None,Dallas,Medium
+T00868,2026-06-03,Americas,Commodities,395711.81,Settled,37.1,None,Mumbai,Low
+T00869,2026-03-16,Americas,Equities,492800.65,Settled,68.2,None,Mumbai,Low
+T00870,2026-04-05,APAC,Commodities,447247.54,Settled,34.8,None,Mumbai,Low
+T00871,2026-02-26,Americas,FX,232192.38,Settled,48.3,None,Warsaw,Low
+T00872,2026-01-28,EMEA,FX,391064,Settled,22.7,None,Warsaw,Low
+T00873,2026-03-04,APAC,Fixed Income,163180.4,Pending,53.1,Counterparty,Dallas,Low
+T00874,2026-02-25,Americas,Fixed Income,404506.93,Settled,1.4,None,Dallas,High
+T00875,2026-04-28,EMEA,Equities,265234.3,Settled,9.5,None,Mumbai,Low
+T00876,2026-05-19,APAC,FX,108573.01,Settled,24.2,None,Mumbai,Low
+T00877,2026-02-22,APAC,Fixed Income,52357.32,Settled,22.4,None,Dallas,Medium
+T00878,2026-04-22,APAC,Commodities,274537.24,Settled,62.2,None,Mumbai,Low
+T00879,2026-03-25,APAC,FX,46562.46,Settled,53.1,None,Warsaw,Low
+T00880,2026-06-30,APAC,Fixed Income,236604.38,Settled,21,None,Warsaw,Medium
+T00881,2026-03-19,Americas,Commodities,438158.65,Settled,8.4,None,Warsaw,Low
+T00882,2026-05-25,APAC,Commodities,371509.83,Pending,38.3,Documentation,Dallas,Low
+T00883,2026-03-14,EMEA,FX,469260.8,Settled,55.5,None,Dallas,Low
+T00884,2026-01-22,Americas,Commodities,424813.21,Settled,19.7,None,Warsaw,Medium
+T00885,2026-02-22,EMEA,FX,126904.03,Settled,29.1,None,Warsaw,Medium
+T00886,2026-04-18,Americas,Fixed Income,489583.65,Settled,43.1,None,Mumbai,Low
+T00887,2026-05-12,Americas,Commodities,146306.86,Settled,65.4,None,Mumbai,Medium
+T00888,2026-05-13,Americas,Fixed Income,44020.16,Settled,24.6,None,Mumbai,Medium
+T00889,2026-01-30,APAC,FX,372692.12,Settled,16.8,None,Dallas,Low
+T00890,2026-04-04,APAC,FX,358308.46,Settled,54.9,None,Warsaw,Low
+T00891,2026-01-18,APAC,Commodities,231525.8,Settled,9,None,Warsaw,Low
+T00892,2026-01-09,Americas,Commodities,467715.16,Settled,2.9,None,Mumbai,Low
+T00893,2026-06-04,APAC,Commodities,167913.83,Settled,50.9,None,Warsaw,Low
+T00894,2026-03-20,Americas,Commodities,448143.39,Failed,45.2,Funding,Mumbai,Low
+T00895,2026-03-31,EMEA,Commodities,262640.78,Settled,49.1,None,Dallas,Low
+T00896,2026-05-25,EMEA,Equities,384987.85,Settled,18.3,None,Warsaw,High
+T00897,2026-05-15,EMEA,FX,375295.62,Settled,40.8,None,Warsaw,Low
+T00898,2026-06-08,APAC,Commodities,331598.02,Settled,27.4,None,Warsaw,High
+T00899,2026-01-09,APAC,Fixed Income,484647.51,Settled,39.4,None,Warsaw,Low
+T00900,2026-05-18,EMEA,Fixed Income,436282.8,Settled,56,None,Dallas,Low
+T00901,2026-05-16,APAC,Fixed Income,223125.83,Settled,48.2,None,Warsaw,Medium
+T00902,2026-03-09,APAC,FX,292706.6,Settled,21.2,None,Warsaw,Low
+T00903,2026-01-14,Americas,FX,73282.12,Settled,67.4,None,Mumbai,Low
+T00904,2026-04-27,EMEA,Commodities,382209.6,Settled,30.5,None,Warsaw,Low
+T00905,2026-02-26,Americas,Equities,54754.84,Failed,36.3,Funding,Dallas,Low
+T00906,2026-05-04,EMEA,Commodities,344533.55,Settled,36.4,None,Dallas,High
+T00907,2026-04-04,Americas,FX,104780.69,Settled,31.2,None,Dallas,Low
+T00908,2026-06-27,EMEA,Fixed Income,438683.73,Settled,27.3,None,Mumbai,Low
+T00909,2026-02-21,APAC,Commodities,98860.96,Settled,69.8,None,Warsaw,Low
+T00910,2026-06-27,EMEA,Fixed Income,355135.17,Settled,50.8,None,Warsaw,Low
+T00911,2026-03-30,Americas,Commodities,467714.01,Settled,40.8,None,Mumbai,Low
+T00912,2026-05-11,EMEA,Commodities,434644.13,Settled,51.5,None,Warsaw,Low
+T00913,2026-06-18,Americas,FX,208419.14,Settled,68.8,None,Dallas,Medium
+T00914,2026-03-11,Americas,Fixed Income,70894.3,Settled,51.7,None,Warsaw,Low
+T00915,2026-04-11,EMEA,Equities,66594.5,Settled,42,None,Mumbai,Medium
+T00916,2026-03-17,APAC,FX,207559.23,Settled,28.3,None,Dallas,Low
+T00917,2026-03-16,Americas,FX,81299.19,Settled,30.1,None,Warsaw,Low
+T00918,2026-06-18,APAC,Commodities,225093.65,Settled,50.4,None,Warsaw,Low
+T00919,2026-02-02,EMEA,Equities,350164.04,Settled,27.2,None,Dallas,Low
+T00920,2026-01-06,EMEA,Fixed Income,361716.7,Settled,40.8,None,Warsaw,Low
+T00921,2026-02-05,EMEA,Equities,265474.82,Settled,63.9,None,Mumbai,Medium
+T00922,2026-06-17,Americas,Fixed Income,310319.93,Settled,5.8,None,Mumbai,Medium
+T00923,2026-03-15,Americas,FX,266867.94,Settled,24.9,None,Mumbai,Low
+T00924,2026-05-10,APAC,Commodities,206569.42,Failed,31.9,Funding,Warsaw,Low
+T00925,2026-04-08,Americas,Equities,471126.89,Settled,34.7,None,Mumbai,High
+T00926,2026-05-28,Americas,Commodities,201004.53,Settled,54,None,Dallas,Low
+T00927,2026-05-23,APAC,Fixed Income,172771.13,Pending,53.2,Counterparty,Mumbai,Medium
+T00928,2026-04-13,APAC,Fixed Income,191285.83,Settled,43,None,Mumbai,Low
+T00929,2026-03-13,EMEA,FX,323993.43,Settled,21.5,None,Warsaw,Low
+T00930,2026-02-08,Americas,Commodities,112954.27,Pending,4.8,Funding,Mumbai,Medium
+T00931,2026-04-08,APAC,Commodities,289438.24,Settled,5.8,None,Dallas,Low
+T00932,2026-06-28,EMEA,Equities,458596.96,Settled,70.1,None,Dallas,Medium
+T00933,2026-06-09,EMEA,Fixed Income,464514.81,Settled,56.9,None,Warsaw,High
+T00934,2026-01-31,Americas,Equities,393357.77,Pending,29.3,Counterparty,Warsaw,Low
+T00935,2026-04-02,APAC,Equities,454369.65,Pending,19.1,Funding,Dallas,Medium
+T00936,2026-01-30,EMEA,Fixed Income,203682.33,Settled,30.1,None,Dallas,Low
+T00937,2026-06-24,Americas,Equities,103558.68,Settled,24.4,None,Dallas,High
+T00938,2026-06-15,Americas,Commodities,169533.33,Settled,11,None,Warsaw,Low
+T00939,2026-03-05,Americas,Equities,423601.53,Settled,57.8,None,Dallas,Medium
+T00940,2026-03-25,Americas,Equities,163827.61,Settled,18.9,None,Dallas,Low
+T00941,2026-01-02,EMEA,Commodities,10699.64,Pending,60,Counterparty,Mumbai,Low
+T00942,2026-04-10,Americas,FX,85027.64,Settled,70,None,Mumbai,Medium
+T00943,2026-03-25,EMEA,Fixed Income,345679.13,Settled,45.2,None,Mumbai,Low
+T00944,2026-01-15,EMEA,Fixed Income,346111.88,Settled,57.9,None,Mumbai,High
+T00945,2026-01-11,APAC,FX,427536.93,Settled,5,None,Dallas,Low
+T00946,2026-01-04,Americas,Equities,393869.01,Settled,11.7,None,Warsaw,Low
+T00947,2026-03-03,EMEA,Fixed Income,52659.64,Failed,47.8,Funding,Warsaw,Low
+T00948,2026-06-08,APAC,FX,343688.76,Pending,17.4,Funding,Warsaw,Low
+T00949,2026-04-21,EMEA,FX,250848.81,Settled,35.9,None,Mumbai,Low
+T00950,2026-01-02,Americas,FX,392213.22,Failed,37.4,System,Mumbai,Medium
+T00951,2026-06-15,EMEA,Commodities,175739.11,Pending,49.6,Funding,Mumbai,Low
+T00952,2026-03-27,APAC,Fixed Income,104652.27,Settled,22.6,None,Dallas,Low
+T00953,2026-06-05,APAC,Equities,266153.35,Settled,43.1,None,Mumbai,Low
+T00954,2026-01-03,APAC,Equities,101746.56,Settled,38.2,None,Dallas,Low
+T00955,2026-02-12,EMEA,Equities,270647.36,Settled,58.6,None,Warsaw,High
+T00956,2026-02-07,APAC,FX,11819.46,Settled,21.8,None,Mumbai,Medium
+T00957,2026-03-20,Americas,FX,357756.43,Pending,31.3,System,Warsaw,Low
+T00958,2026-04-21,APAC,FX,377865.21,Settled,30.4,None,Dallas,Low
+T00959,2026-05-10,Americas,FX,333092.88,Settled,36.6,None,Mumbai,High
+T00960,2026-06-13,Americas,FX,182973.18,Settled,18.5,None,Mumbai,Low
+T00961,2026-01-03,Americas,Equities,189874.14,Pending,4.4,System,Warsaw,High
+T00962,2026-02-15,APAC,Commodities,471988.96,Settled,31.4,None,Warsaw,Low
+T00963,2026-05-25,APAC,FX,192245.03,Settled,46.1,None,Warsaw,Low
+T00964,2026-02-12,EMEA,Fixed Income,235128.55,Settled,56.9,None,Mumbai,Low
+T00965,2026-04-12,Americas,Equities,287431.03,Settled,63.7,None,Dallas,Low
+T00966,2026-03-02,Americas,FX,463215.25,Settled,26.9,None,Warsaw,Low
+T00967,2026-01-14,APAC,FX,54075.65,Settled,50.8,None,Mumbai,Medium
+T00968,2026-04-19,APAC,FX,434647.78,Settled,4.2,None,Mumbai,Low
+T00969,2026-02-18,APAC,Fixed Income,128163.25,Settled,11.8,None,Warsaw,Medium
+T00970,2026-06-09,APAC,Fixed Income,276607.74,Settled,2.4,None,Dallas,Low
+T00971,2026-03-26,EMEA,Commodities,153749.18,Settled,2.9,None,Warsaw,Medium
+T00972,2026-02-06,Americas,Equities,448933.53,Settled,21.3,None,Warsaw,Medium
+T00973,2026-03-26,APAC,Equities,422678.62,Settled,71,None,Warsaw,Low
+T00974,2026-03-25,EMEA,FX,310267.44,Settled,10.7,None,Mumbai,Low
+T00975,2026-06-26,Americas,Fixed Income,64392.32,Pending,68.7,Documentation,Mumbai,Low
+T00976,2026-06-23,Americas,Equities,323026.64,Settled,36.1,None,Warsaw,Low
+T00977,2026-01-29,Americas,FX,403641.21,Settled,6.7,None,Dallas,Low
+T00978,2026-06-19,Americas,Commodities,74706.44,Settled,16.2,None,Mumbai,Medium
+T00979,2026-06-19,EMEA,FX,20404.78,Failed,32.2,Documentation,Warsaw,Low
+T00980,2026-01-29,APAC,FX,203521.54,Settled,48.2,None,Dallas,Low
+T00981,2026-05-13,APAC,Fixed Income,106607.39,Settled,19.4,None,Dallas,Low
+T00982,2026-01-12,EMEA,FX,456711.63,Settled,40.4,None,Dallas,High
+T00983,2026-05-05,APAC,Equities,81314.55,Settled,61.4,None,Mumbai,Low
+T00984,2026-06-02,Americas,Commodities,92830.67,Settled,50,None,Dallas,Medium
+T00985,2026-01-13,EMEA,Fixed Income,403227.76,Pending,20.5,Funding,Warsaw,Low
+T00986,2026-03-14,Americas,Commodities,308861.23,Settled,19.7,None,Mumbai,Low
+T00987,2026-05-05,EMEA,Fixed Income,474329.95,Pending,40.7,System,Mumbai,Medium
+T00988,2026-04-10,Americas,Fixed Income,175377.8,Pending,52.7,Counterparty,Mumbai,Low
+T00989,2026-04-05,APAC,Fixed Income,185763.79,Settled,12.2,None,Dallas,Medium
+T00990,2026-03-25,Americas,Fixed Income,243998.6,Settled,15.9,None,Dallas,Low
+T00991,2026-01-25,Americas,FX,210584.87,Settled,65.1,None,Dallas,Low
+T00992,2026-06-11,Americas,FX,227359.01,Settled,66.1,None,Warsaw,Low
+T00993,2026-06-10,Americas,FX,499395.59,Settled,13.9,None,Warsaw,Medium
+T00994,2026-06-30,EMEA,Equities,214063.96,Settled,60.4,None,Dallas,Low
+T00995,2026-02-14,EMEA,Fixed Income,460350.59,Failed,34.2,Funding,Mumbai,Low
+T00996,2026-02-17,EMEA,Commodities,90822.4,Settled,9.9,None,Dallas,Low
+T00997,2026-02-17,Americas,Commodities,142401.72,Settled,37.4,None,Mumbai,Low
+T00998,2026-04-19,EMEA,Fixed Income,325451.47,Settled,17.9,None,Dallas,Low
+T00999,2026-03-01,EMEA,Commodities,294343.95,Settled,31.4,None,Mumbai,Low
+T01000,2026-03-27,Americas,Fixed Income,221096.48,Settled,14.4,None,Dallas,Medium
