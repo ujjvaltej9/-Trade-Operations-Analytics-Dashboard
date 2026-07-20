@@ -104,6 +104,6 @@ The project contains five SQL modules:
 
 Business Analytics Student
 
-📧 LinkedIn: www.linkedin.com/in/ujjvaltej-madutha-98a378421
+📧 LinkedIn: (https://www.linkedin.com/in/ujjvaltej/)
 
 💻 GitHub: https://github.com/ujjvaltej9
